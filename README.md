@@ -5,9 +5,9 @@
 [![License](https://img.shields.io/github/license/watatomo/wttm_qtbot)](https://github.com/watatomo/wttm_qtbot/blob/master/LICENSE)
 [![Status](https://img.shields.io/badge/status-running-brightgreen.svg)](https://twitter.com/wttm_qtbot)
 
-[@wttm_qtbot](https://twitter.com/wttm_qtbot) is a Twitter bot that publishes (translated) quotes pertaining to Tomoya Mashiro and Wataru Hibiki's relationship ~~in hopes of making others consider the pair~~. More quotes will be added over time.
+[@wttm_qtbot](https://twitter.com/wttm_qtbot) is a Twitter bot that publishes (translated) quotes pertaining to Tomoya Mashiro and Wataru Hibiki's relationship ~~in hopes of making others consider the pair~~. More quotes will be added over time. [Interested in the pair? Here's a guide about them by Ren in the works!](https://rebrand.ly/wttm_guide)
 
-[Interested in the pair? Here's a guide about them in the works!](https://rebrand.ly/wttm_guide)
+[@ensemble_dubs](https://twitter.com/ensemble_dubs) is another Twitter bot forked from [@wttm_qtbot](https://twitter.com/wttm_qtbot), displaying random quotes from the official dubbed version of Ensemble Stars! (Anime). The bot is still in progress.
 
 ## Features
 
@@ -35,8 +35,9 @@ POST_TO_TWITTER=true
 
 ## Attributions
 
-Translations are mainly from the [Ensemble Stars Wiki](https://ensemble-stars.fandom.com), but not all. Some lines are also translated by myself. A list of stories (and their sources) that are included in the bot can be found [here](https://watatomo.github.io/wttm_qtbot/#/stories). A complete list of translators can be found [here](https://watatomo.github.io/wttm_qtbot/#/translators).
+Bot source code is forked from [@watatomo/wttm_qtbot](https://github.com/watatomo/wttm_qtbot/) with permission.
+Dub scripts are taken from Funimation directly with minor extra transcriptions by me (to convey more accurately about what's going on without the images).
 
 ---
 
-Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riamuyumemi) or [open an issue](https://github.com/watatomo/wttm_qtbot/issues).
+Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/junsweats) or [open an issue](https://github.com/jeaoq/endubs_qtbot/issues). For issues about the bot's base code, [open an issue on @watatomo/wttm_qtbot](https://github.com/watatomo/wttm_qtbot/issues)
