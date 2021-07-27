@@ -1,2102 +1,836 @@
 [
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Genius and Ordinary] Tomoya Mashiro",
-    "text": "I'll catch you in a lie one day!"
+    "episode": 1,
+    "character": "Anzu",
+    "quote": "Anzu: Welcome to Yumenosaki Academy. The name means \"academy where dreams bloom,\" and that's the goal for all the students who attend school here. What is your dream? Are you the next celebrity idol? An actor? Or maybe a singer?",
+    "charcount": 228
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Hajime Shino (2 - !!)",
-    "text": "But I'm still nothing compared to that Masked Perv—to Hibiki-senpai."
+    "episode": 1,
+    "character": "Jin",
+    "quote": "Jin: I'm Mr. Sagami, your homeroom teacher. Please come to the staff room in the Idol department before class starts.",
+    "charcount": 118
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Hokuto Hidaka: Improv Theater",
-    "text": "For what reason are you running, Tomoya-kun! Face your struggles! You will not be able to grow otherwise!"
+    "episode": 1,
+    "character": "Mao, Subaru, Hokuto",
+    "quote": "Mao: Come on, you guys! \nSubaru: \"You guys?\" That was Hokke! \nHokuto: You're so rude! I was doing my part right. It seems you're the only one who doesn't know the choreography, yet. Akehoshi. \nSubaru: Huh? Yes I do!",
+    "charcount": 216
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Hokuto Hidaka: Improv Theater",
-    "text": "Upon the summit of an impregnable mountain, there lies paradise...☆ Amazing! Let us search for paradise together once more! ☆ Even if it is but an impossible dream! Fuhahahahahaha!"
+    "episode": 1,
+    "character": "Subaru, Hokuto, Makoto",
+    "quote": "Subaru: \"Step, bam, on the floor!\" Then \"whee\" around! Then \"sparkle,\" smile! \nHokuto: Don't speak with sound effects. Especially when I explained things to you so logically. \nMakoto: Hey, guys, you don't have to fight about it.",
+    "charcount": 229
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Hokuto Hidaka: Improv Theater",
-    "text": "Please do not say disgraceful things of others! I am not contaminating you; rather, I am decorating you! To be decorated is an idol, and to shine is thus the Drama Club...☆"
+    "episode": 1,
+    "character": "Mao, Hokuto, Subaru",
+    "quote": "Mao: Oh, crap. Hate to bail, but I gotta head back to my own classroom. I forgot that I have class duty! \nHokuto: Wow, is that the time? \nSubaru: Hah! The minutes fly when you're having fun, don't they?",
+    "charcount": 203
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Hokuto Hidaka: Improv Theater",
-    "text": "Tomoya-kun, you have a complex over being \"normal,\" do you not? That is but an unneeded worry, as you have infinite attributes within you!"
+    "episode": 1,
+    "character": "Hokuto, Subaru, Makoto, Anzu",
+    "quote": "*Hokuto growls* --\nSubaru: Huh? \nMakoto: Huh? \n*Anzu gasps*",
+    "charcount": 59
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Hokuto Hidaka: Improv Theater",
-    "text": "It is with an ordinary face that cosmetics can shine! You can become anyone, and can go anywhere!"
+    "episode": 1,
+    "character": "Mao, Makoto, Hokuto, Subaru",
+    "quote": "Mao: It's a girl. What're you doing in an idol course classroom? \nMakoto: Uh-- \nHokuto: Wait, that's right. I've heard about you. \nSubaru: Hello there! You're the transfer student people're talking about!",
+    "charcount": 205
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Hokuto Hidaka: Improv Theater",
-    "text": "Now, take my hand, and dance with me...☆"
+    "episode": 1,
+    "character": "Hokuto, Anzu",
+    "quote": "Hokuto: People have been talking about you for quite a while. Mr. Sagami, our homeroom teacher mentioned that you're in the Production Course that was established recently, but... unfortunately there aren't any classrooms for you yet. \nAnzu: Huh?",
+    "charcount": 247
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Hokuto Hidaka: Improv Theater",
-    "text": "I truly took you by surprise, didn't I? I was using my vocal mimicry to voice two people at once—Tomoya-kun and myself! In short, it was improv theater!"
+    "episode": 1,
+    "character": "Hokuto",
+    "quote": "Hokuto: Hopefully they'll be available soon. But for now, you'll be able to attend some of the idol courses with us for credit. Consider yourself a temporary member of class 2-A. The three of us are your classmates.",
+    "charcount": 216
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Hokuto Hidaka: Improv Theater",
-    "text": "I have always been observing you and Tomoya-kun from nearby, you see—my imitations of you two are perfect...☆"
+    "episode": 1,
+    "character": "Subaru, Anzu, Hokuto",
+    "quote": "Subaru: So hey, uh... *chuckles* What's your name, newbie? \nAnzu: I'm Anzu. \nSubaru: That's great! My name's Akehoshi Subaru! Nice to meet you! Let's be friends! \nHokuto: Sorry about him. I'm Hidaka Hokuto, the class representative for Class 2-A.",
+    "charcount": 246
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Tomoya Mashiro (1 - !!)",
-    "text": "\"Come now, everyone! Take a look and laugh! I am a clown who seeks to spread laughter through silly antics! Feel free to spit and throw rocks at me to cast away your daily sorrows! ♪\""
+    "episode": 1,
+    "character": "Subaru, Makoto",
+    "quote": "Subaru: His name's Hokuto, but you can call him \"Hokke\"! Oh! And that one with the glasses is Yuuki Makoto, so call him \"Ukki!\" \nMakoto: There's more to me than glasses, you know. But I guess it's fine. Uh, hi! Maybe they'll make me memorable, Right?",
+    "charcount": 250
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Tomoya Mashiro (1 - !!)",
-    "text": "Yep, it's similar to Puck from A Midsummer Night's Dream. I play a trickster who skips across the stage and causes trouble. The role reminded me of two guys I look up to, so I was really motivated!"
+    "episode": 1,
+    "character": "Makoto, Anzu",
+    "quote": "Makoto: Yes, my name is Yuuki Makoto, and... I'm glad you're here. \nAnzu: It's nice to meet you all. \nMakoto: Uh! I'm sorry I'm so nervous. I'm just not very experienced with girls.",
+    "charcount": 182
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Tomoya Mashiro (1 - !)",
-    "text": "Oh no! At this rate, that pervert's gonna make me into his dress-up doll! Since that person's needlessly a master at changing clothes quickly and surprisingly strong, too, I can hardly put up a fight!"
+    "episode": 1,
+    "character": "Hokuto",
+    "quote": "Hokuto: *coughs* Right. Since our school specializes in training only male idol groups, it can feel a lot like attending an all-boys academy. I imagine being surrounded by so many boys might be difficult. But I'm here to make you feel comfortable.",
+    "charcount": 247
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Tomoya Mashiro (1 - !)",
-    "text": "No, it doesn't have to do with the Drama Club, so don't worry. I've already gotten used to the president's eccentric ways, you could say."
+    "episode": 1,
+    "character": "Jin, Hokuto, Subaru, Makoto",
+    "quote": "Jin: Well, now I know why you never stopped by the staff room. \nHokuto: Hey, Mr. Sagami. You're her teacher, you should be the one keeping track of her, right? \nSubaru: Yeah! Way to neglect your new students, teach! \nMakoto: Akehoshi!",
+    "charcount": 235
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Tomoya Mashiro: Birthday Celebration (2018)",
-    "text": "Happy birthday, Tomoya-kun...! ☆ I've readied an abundance of presents for you!"
+    "episode": 1,
+    "character": "Subaru, Makoto",
+    "quote": "Subaru: If there's anything you don't get, feel free to ask Ukki! Right? Right? \nMakoto: What? Why ask me? Both of you are way smarter than I--Wait! You're making fun of me! Give me a second to find a comeback that'll totally burn you!",
+    "charcount": 236
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Tomoya Mashiro: Birthday Celebration (2018)",
-    "text": "Oh my, you don't look too happy. You're the birthday boy; you simply mustn't make such an expression! Very well, I shall perform some magic tricks that will put a smile on your face...☆"
+    "episode": 1,
+    "character": "Hokuto, Subaru, Makoto",
+    "quote": "Hokuto: Is it possible for you two to stay quiet for at least 30 seconds? Hey, Akehoshi, How's ten yen for your silence? \nSubaru: Wha--? No way? Master Hokuto! I'm your faithful doggy! \nMakoto: Wait, You let him buy you for ten yen?",
+    "charcount": 233
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Tomoya Mashiro: Birthday Celebration (2018)",
-    "text": "Roses for you! And gerberas, tulips, and some magnificent orchids! Ahaha, you're all covered in flowers! Aren't they beautiful, Tomoya-kun? The rose petals on the cake? Hehehe, no need to fret. I assure you that they're all edible."
+    "episode": 1,
+    "character": "Subaru, Hokuto, Anzu",
+    "quote": "Subaru: *gasps* Here it comes. \nHokuto: For you. It's konpeito candy and you can have some if you come with us. \nAnzu: What?",
+    "charcount": 125
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Tomoya Mashiro: Birthday Celebration (2018)",
-    "text": "There's more than just flowers waiting for you, so please accept them—every last one♪"
+    "episode": 1,
+    "character": "Makoto, Subaru",
+    "quote": "Makoto: I hate standing here and not being able to say anything! Can't we at least tell her that he does this \"konpeito candy\" thing to people all of the time? \nSubaru: Don't you dare, Ukki! If you do, I'm not gonna get my ten yen!",
+    "charcount": 232
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Tomoya Mashiro: Sharing the Fun",
-    "text": "I'd be perfectly happy to spend the entire day with Hokuto-senpai from the moment I get to school, but having to face that Masked Pervert first thing in the morning sounds...absolutely exhausting."
+    "episode": 1,
+    "character": "Makoto",
+    "quote": "Makoto: *chuckles* I'm available, too, if you need me. I'm on the broadcast committee, so I'm good at finding information. That tends to come in handy.",
+    "charcount": 152
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You (1)",
-    "text": "Woah?! A dove just came out of that sleeve... And it's talking!"
+    "episode": 1,
+    "character": "Subaru, Anzu",
+    "quote": "Subaru: You can always talk to me, too! And I know this is kinda sudden, but can I please borrow some money? *giggles* Pretty please? --\nAnzu: Uh...",
+    "charcount": 149
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You (1)",
-    "text": "Tomoya-kun. Have you finally come up with an idea for your personalized outfit after trying on costume after costume?"
+    "episode": 1,
+    "character": "Hokuto, Subaru",
+    "quote": "Hokuto: If you haven't figured it out yet, this guy's an idiot. I wouldn't advise getting involved with him. \nSubaru: Hokke, what are you saying? Stop! Now for the rest of our lives, she's gonna think I'm a moron because of you! *whines*",
+    "charcount": 237
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You (1)",
-    "text": "What do you want to be? Who do you want to be?"
+    "episode": 1,
+    "character": "Tetora",
+    "quote": "Tetora: 'Sup, yo! Competition belongs in a man's world! Backstage, the blood's boiling. And our competitors are ready to throw down! Ready to watch two guys in a battle of wills?",
+    "charcount": 179
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You (2)",
-    "text": "Everything you wear will suit you, and as such you'll be able to play any role you'd like. Just like your name, you are a canvas of pure white. You can be painted in any color; you can become anything your heart desires."
+    "episode": 1,
+    "character": "Tetora",
+    "quote": "Tetora: I forgot to introduce myself! I'm Nagumo Tetora, host for the DreFes Ryuu-ou-sen match! I'm also a first year in the Karate Club! Yeah, boi!",
+    "charcount": 149
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You (2)",
-    "text": "Perhaps I can only view this so positively because it is precisely what I am lacking, but... Your \"problem\" is actually a skill that those with strong personalities cannot obtain no matter how desperately they may wish to."
+    "episode": 1,
+    "character": "Tetora",
+    "quote": "Tetora: I love weight training! I love eating kalbi. And my dream for the future is to become the manliest man of all time! \nStudent: No one asked you!",
+    "charcount": 152
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You (2)",
-    "text": "Hibiki-senpai's not here, huh... Maybe I should've just called him upfront on HoldHands."
+    "episode": 1,
+    "character": "Makoto, Subaru, Anzu",
+    "quote": "Makoto: Look. This is the B1 Ryuu-ou-sen title match. \nSubaru: Ryuu-ou-sen! \nAnzu: *yelps*\nMakoto: Uh, why did you say it like the name of an ultimate move?",
+    "charcount": 157
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You (2)",
-    "text": "Hoho. I was wondering who you were searching for—to think that it was me."
+    "episode": 1,
+    "character": "Tetora",
+    "quote": "Tetora: The contestant you've all been waiting for has finally arrived! It's the challenger! At 5'7\" and weighing in at a 128 pounds, he's called the \"Snapping Demon of the Band Club!\" Mad dog, Ogami Koga!",
+    "charcount": 206
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You (2)",
-    "text": "Eep! D-Don't just show up out of the blue! You should've just called out to me... Geez."
+    "episode": 1,
+    "character": "Koga, Subaru",
+    "quote": "Koga: I'm ready to sink my claws into the souls of fools! I'll bite your flesh and tear it apart before drinking your fresh blood!Enjoy the rapture of this moment before you become my next victim! \nSubaru: Wow! He's so cool! Gami-san! Gami-san!",
+    "charcount": 245
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You (2)",
-    "text": "Here. This is the design for my personalized outfit. I took your advice and such, so I thought I'd better show the final outcome to you."
+    "episode": 1,
+    "character": "Subaru, Koga",
+    "quote": "Subaru: Wow! He's so cool! Gami-san! Gami-san!\nKoga: For real? Don't you dare pretend like we're friends and call me by a nickname, Akehoshi! You know I'm a lone wolf and don't rely on anyone!",
+    "charcount": 192
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You (2)",
-    "text": "You're still a blank canvas at the moment; I can't help but wonder what colors you'll paint yourself with in the future... I grow more and more eager to observe your growth."
+    "episode": 1,
+    "character": "Hokuto, Tetora, Subaru",
+    "quote": "Hokuto: By \"chief,\" do you mean the captain of the Karate Club? \nTetora: Yeah, that's right. He was supposed to go up against Ogami, but when I looked backstage, he wasn't there yet! \nSubaru: Oh! I saw him in the cafeteria earlier eating spaghetti!",
+    "charcount": 249
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Tomoya Mashiro: To the Deutzia-Colored You (2)",
-    "text": "Ahaha. I'm also looking forward to what my future as an idol holds. This is only the first step... With this costume, I shall march towards that future with confidence!"
+    "episode": 1,
+    "character": "Tetora, Kuro",
+    "quote": "Tetora: That's ridiculous! At this point, he's going to have to lose by default! *groans* What the heck, chief! Where are you? \nKuro: What are you screaming about, Tetsu? \nTetora: *laughs* Chief! You made it! You scared the crap out of me!",
+    "charcount": 240
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Wataru Hibiki: Animal Presentation",
-    "text": "By the way, Tomoya-kun. Do you have any recollection of that dove you're holding?"
+    "episode": 1,
+    "character": "Kuro, Tetora, Anzu, Makoto, Subaru",
+    "quote": "Kuro: Hey, Tetsu. You happen to have a handkerchief on ya? \nTetora: Uh... A handkerchief? Lemme see here. \nAnzu: Have mine. \nMakoto: Wait, what are you doing? \nSubaru: She's about to save the day!",
+    "charcount": 197
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Wataru Hibiki: Animal Presentation",
-    "text": "That's absolutely correct; this is the child you saved. She hasn't been bullied by those around her at all lately, and now—as you can see—she's doing perfectly well."
+    "episode": 1,
+    "character": "Kuro, Anzu",
+    "quote": "Kuro: Who are you? And why haven't I seen you around? \nAnzu: *gasps*\nKuro: Guess it doesn't matter. Thanks for the save, love. I'll get it back to you clean.",
+    "charcount": 158
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Wataru Hibiki: Animal Presentation",
-    "text": "\"Saved\"? You're exaggerating. You were the one who actually took care of her."
+    "episode": 1,
+    "character": "Koga",
+    "quote": "Koga: What do we have here? So, the champ decided to show up? Finally, I was gettin' bored. *cackles* I could use a little entertainment right now, and I'm counting on you! You're the strongest man in Yumenosaki Academy. You can handle it.",
+    "charcount": 240
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Wataru Hibiki: Animal Presentation",
-    "text": "However, if you hadn't brought her to me, I wouldn't have even known she was in such a state. And she surely wouldn't have emerged unscathed either. So you truly did save her, Tomoya-kun."
+    "episode": 1,
+    "character": "Koga, Kuro",
+    "quote": "Kuro: Is that a lone pup I hear yappin'? Didn't your master train you to respect your upperclassmen? \nKoga: Heh.",
+    "charcount": 113
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Wataru Hibiki: Animal Presentation",
-    "text": "I take my doves on walks through the sky in my hot air balloon, you see. On that note, Tomoya-kun, let us do exactly that...☆"
+    "episode": 1,
+    "character": "Koga, Kuro",
+    "quote": "Kuro: If you wanna beat me, you'll have to bring out Sakuma! But I guess that's not really an option. What a shame. At least you can help me work off my lunch. \nKoga: Hah!",
+    "charcount": 172
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Wataru Hibiki: Animal Presentation",
-    "text": "Woaaah! Don't jump onto the balloon while carrying meee! P-Put me down~!"
+    "episode": 1,
+    "character": "Tetora, Koga",
+    "quote": "Tetora: It's an honor to reintroduce you to our champion! He's 5'10\", weighs 143 pounds, and he's the strongest man in Yumenosaki Academy. Kiryu Kuro! \nKoga: *laughs* I've been waiting for you!",
+    "charcount": 193
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Wataru Hibiki: Birthday Celebration (2018)",
-    "text": "Happy birthday, Masked Perv. Woah, why are you crying?! Uh, you want me to say it with your name instead? Ugh~ Fine... Happy birthday, President Hibiki!"
+    "episode": 1,
+    "character": "Koga, Kuro",
+    "quote": "Koga: *laughs* I've been waiting for you! It wouldn't have been any fun just to win this thing by default. Bring it on! Come punch me! Lemme see what ya got. I'll snap your fingers clean off your hands. \n\nHuh? \nKuro: *kicks koga's ass*",
+    "charcount": 235
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Wataru Hibiki: Birthday Celebration (2018)",
-    "text": "Hmm...? Did you seriously record all of that?! The recording's \"perfect\"? Ah, and those tears were fake?! Dammit... I just let my guard down because it's your birthday~!"
+    "episode": 1,
+    "character": "Kuro, Koga",
+    "quote": "Kuro: (He dodged me. Guess he's not all talk after all.)\nBrat! \nKoga: (What's with this bastard? I'm not feeling any bloodlust from him at all! He acts like he's going for a walk, and then turns around with a kick.)",
+    "charcount": 215
   },
   {
-    "character": "Hokuto Hidaka",
-    "story": "[Idol Story] Wataru Hibiki: Reserved Joker",
-    "text": "When the other person doesn't react as intended, you get worried. That's why instead of complimenting you, he's strict."
+    "episode": 1,
+    "character": "Makoto, Tetora",
+    "quote": "Makoto: Jeez, what kind of crazy matchup is this? \nTetora: A physical one!",
+    "charcount": 75
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Wataru Hibiki: Reserved Joker",
-    "text": "Wha—he can be killed? If I'd known that I could've finished him off sooner!"
+    "episode": 1,
+    "character": "Tetora, Koga, Anzu, Subaru, Hokuto, Makoto",
+    "quote": "Tetora: Whoa! Look at that! Ogami has been blown clear out of the ring! \nKoga: *grunts* *jumps on anzu*\nAnzu: *dies*\nSubaru, Hokuto: Transfer student! \nMakoto: Transfer student?",
+    "charcount": 178
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Wataru Hibiki: Reserved Joker",
-    "text": "Plus, if that guy died and came back to life, maybe we can raise him up into a normal person without any eccentricities? Let's do our best together to raise a \"nice, clean\" Wataru Hibiki☆"
+    "episode": 1,
+    "character": "Tori, Keito",
+    "quote": "Tori: *giggles* He's squealing like a little piggy. No, more like a puppy with his tail between his legs. \nKeito: *chuckles*",
+    "charcount": 124
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Wataru Hibiki: Reserved Joker",
-    "text": "I mean, even if our president is a weirdo, he wouldn't go so far as to die and be reborn♪"
+    "episode": 1,
+    "character": "Koga, Hokuto",
+    "quote": "Koga: If you've got a problem with me, then come 'n get some! \nHokuto: Don't misjudge your opponent. You fool! Remember what's important. Who our real enemy is.",
+    "charcount": 161
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Wataru Hibiki: Resounding Love",
-    "text": "Let's assassinate him! Assassinate! I'll assassinate that tyrant, and then build a new era with Hokuto-senpai...♪"
+    "episode": 1,
+    "character": "Keito",
+    "quote": "Keito: Quiet, everyone! We're executives from the student council! The school did not give you permission for this DreFes. According to Article 4 of the Yumenosaki Academy School Regulations, the organizer and the audience will all be punished.",
+    "charcount": 244
   },
   {
-    "character": "Hokuto Hidaka",
-    "story": "[Idol Story] Wataru Hibiki: Resounding Love",
-    "text": "Sorry, but that's a little creepy, Tomoya. Have you been corrupted by the Masked Pervert?"
+    "episode": 1,
+    "character": "Tori",
+    "quote": "Tori: Take a look around. You're completely surrounded. I knew you'd all try something if I spread the rumor we were busy, and you didn't disappoint me. How terribly expected.",
+    "charcount": 176
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Wataru Hibiki: Resounding Love",
-    "text": "Hahaha! You're so timid, Tomoya-kun. Your cowardice will detract from the brilliance of life! Take a leap into the unknown, for I will embrace you...☆"
+    "episode": 1,
+    "character": "Keito",
+    "quote": "Keito: Now you'll get what's coming to you, troublemakers. \nListen up! I am vice president, Hasumi Keito. I represent the student council president. In the name of Tenshouin Eichi, I shall etch the school rules onto your puny brains!",
+    "charcount": 234
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Wataru Hibiki: Resounding Love",
-    "text": "Oh, my! It's seems I've been hated! However, whether you favor or are hostile toward me, I'll find you adorable all the same!"
+    "episode": 1,
+    "character": "Subaru, Makoto, Hokuto, Mao",
+    "quote": "Subaru: *yells* Hang in there, transfer student! Please come back to the world of the living! \n*a challenger approaches*\nSubaru, Makoto, Hokuto: *gasps*\n*it's mao*\nMao: Shh.",
+    "charcount": 174
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Wataru Hibiki: Resounding Love",
-    "text": "Ahahah! Since you seem to be having trouble with it, Hokuto-kun, I'll take over the role of the \"illicit lover\"! And then I'll swoop down and attack Tomoya-kun until he's thoroughly disgraced...☆"
+    "episode": 1,
+    "character": "Makoto, Subaru, Mao",
+    "quote": "Makoto: Thanks. Without you, we wouldn't've been able to sneak past the student council. \nSubaru: It's like you're our very own magician, Sally. \nMao: It wasn't magic, just good luck.",
+    "charcount": 184
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Wataru Hibiki: Resounding Love",
-    "text": "Gehehe! Even if you dislike it, your body will tell the truth! Let me love you...♪"
+    "episode": 1,
+    "character": "Subaru, Sagami, Makoto",
+    "quote": "Subaru: Hey, Sagami. Where's Hokke? \nSagami: He's with the transfer student inside. \nMakoto: Jeez, did he forget he has friends out here? He doesn't have to watch over her all by himself.",
+    "charcount": 188
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Wataru Hibiki: Resounding Love",
-    "text": "Come now, let me drown you in pleasure! Let us rejoice and enjoy life to the fullest, and toss all ethics away in order for the flowers of our love to bloom beautifully...☆"
+    "episode": 1,
+    "character": "Subaru",
+    "quote": "Subaru: We can build ourselves up. One-by-one, together. Eventually, we'll grow so big, we can reach the heavens. And our fingertips will brush the stars. \n\nMm... Actually, we'll be the sparkling wonders ourselves. We'll become stars.",
+    "charcount": 235
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Wataru Hibiki: That Which is Reflected in Your Eyes (2)",
-    "text": "But, yeah, you're right. I have a feeling this performance wouldn't have been a success without Hibiki-senpai."
+    "episode": 1,
+    "character": "Hokuto",
+    "quote": "Hokuto: This academy isn't really a school made for idols, by idols, like I said. More precisely, this is a school for the chosen, elite idols. Outcasts like us who aren't singled out as being superior will never see spotlights from the stage.",
+    "charcount": 244
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Wataru Hibiki: That Which is Reflected in Your Eyes (2)",
-    "text": "Normally, he just bugs me—he's just the annoying Masked Pervert. But I really do respect him when it comes to his acting skills, or the part of him that's an entertainer who can make people happy."
+    "episode": 1,
+    "character": "Hokuto",
+    "quote": "Hokuto: The student council is what rules over the academy and keeps that system in place. They're unbending. That's why... somehow, we must bring about a revolution.",
+    "charcount": 167
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Wataru Hibiki: That Which is Reflected in Your Eyes (2)",
-    "text": "I'm not just gonna admire him, though. One day, I'm gonna catch up to his distant back... As an actor, I wanna be his equal in the truest sense of the word. Ah, but keep this all secret, okay? I don't even wanna think about what Hibiki-senpai would say if he heard me—"
+    "episode": 1,
+    "character": "Hokuto",
+    "quote": "Hokuto: In order to tear down the student council and reform this school, we'll fight to the end, risking our lives. And you might turn out to be the one to lead the way. I have a hunch that'll be the case. \n\nNo. I want it to be true.",
+    "charcount": 235
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Wataru Hibiki: That Which is Reflected in Your Eyes (2)",
-    "text": "Uwaah?! W-When did you get here...? Were you listening to that?"
+    "episode": 1,
+    "character": "Hokuto",
+    "quote": "Hokuto: That's why we pray that your heart will resonate with ours, transfer student. So, you see, you're the shining hope we've been wishing for. The one who will help us change this school.",
+    "charcount": 192
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Idol Story] Wataru Hibiki: That Which is Reflected in Your Eyes (2)",
-    "text": "N-No, it's nothing. Good, I guess you really didn't hear. I'm gonna go see Hokuto-senpai, bye!"
+    "episode": 1,
+    "character": "Anzu",
+    "quote": "Anzu: It was on that day, the revolution they'd longed for quietly began.",
+    "charcount": 74
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Idol Story] Wataru Hibiki: That Which is Reflected in Your Eyes (2)",
-    "text": "Oh? It almost appeared as if he were running away from me."
+    "episode": 2,
+    "character": "Anzu, Natsume",
+    "quote": "Anzu: This is Yumenosaki Academy. The name says it all-- It's a school where dreams come true. But, sometimes when I look around the campus, it feels kinda... \nNatsume: *drawing summoning circle*",
+    "charcount": 195
   },
   {
-    "character": "Hajime Shino",
-    "story": "[Main Story (!!)] Troublemakers: 42 - Rabbit",
-    "text": "Huh? But Tomoya-kun, you're the one who decided that a production put on by Hibiki-senpai's theatrical troupe took priority over Trickstar, aren't you?"
+    "episode": 2,
+    "character": "Koga, Rei",
+    "quote": "Koga (in video): I may've left the ring, but I haven't touched the ground yet. \nRei: Youths these days. They're so energetic.",
+    "charcount": 126
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Main Story (!!)] Troublemakers: 42 - Rabbit",
-    "text": "And I've been looking forward to the troupe's production for a while—I fought tooth and nail for that seat! I couldn't stop thinking, if I miss this, I'll regret it for the rest of my days."
+    "episode": 2,
+    "character": "Jin",
+    "quote": "Jin: Everyone's watching you, ya know. I'm sure there are a lot a people telling you what you should be doing. But you are your own person. Let your heart decide who you want to believe and how you want to interact with them.",
+    "charcount": 225
   },
   {
-    "character": "Natsume Sakasaki",
-    "story": "[Mini Talk] Natsume Sakasaki: Birthday Celebration (2021)",
-    "text": "Wataru-nii-san couldn't be here because of WORK, so he had Tomoya-kun take over for HIM..."
+    "episode": 2,
+    "character": "Subaru, Koga",
+    "quote": "Subaru: Remember Gami-san? He's part of a unit, too, despite the way he looks. \nKoga: Keep talking behind my back and see what happens, Akehoshi!",
+    "charcount": 146
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro",
-    "text": "Yeah...! If I get tall enough to overtake the Masked Pervert, I could become a cool prince like Hokuto-senpai!"
+    "episode": 2,
+    "character": "Tori, Yuzuru",
+    "quote": "Tori: Yeah, Isara, you're like, super late. But we're all gonna work hard and finish everything as fast as we can! \nYuzuru: Young Master, please remember that it's considered bad manners to snack while working. \nTori: Shut up!",
+    "charcount": 226
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "Oh my, if you sigh so much, you might scare happiness away."
+    "episode": 2,
+    "character": "Anzu, Subaru, Hokuto",
+    "quote": "Anzu: Uh... \nSubaru: Aw, c'mon, Hokke, you're pushing her too hard! See? Look. She doesn't even know how to respond. \nHokuto: Oh. I'm sorry. \nSubaru: It throws people off when you start randomly talking about revolutions.",
+    "charcount": 222
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "You're here?! This is the first year's classroom, what are you doing here?! Huh? You were checking on me to see if I was internalizing my role properly? You sure have a lot of time on your hands..."
+    "episode": 2,
+    "character": "Subaru, Makoto, Hokuto",
+    "quote": "Subaru: Huh? \nMakoto: Is something wrong, Akehoshi? \nSubaru: I hear singing somewhere! \nMakoto: Are you sure? \nHokuto: Are you hearing ultrasonic waves now? I knew you were part dog.",
+    "charcount": 183
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "I'm doing everything as I should, so there's no need to worry."
+    "episode": 2,
+    "character": "Subaru, Hajime, Anzu, Makoto",
+    "quote": "Subaru: I love your voice, Shinonon! \nHajime: Wow, thank you very much, guys! Um. You're squeezing too hard. \nSubaru: Oh, sorry! You're just sparkling so much, Shinonon! \nAnzu: *gets kidnapped*\nMakoto: What's your unit called? Who's in it?",
+    "charcount": 240
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "Ugh... Whose fault do you think this is...? I know it's still the lead role, even though I'm a heroine, but I still do want to give a piece of my mind. Well, everything's been decided anyways, so I've prepared myself for the worst."
+    "episode": 2,
+    "character": "Yuta, Hinata",
+    "quote": "Yuta: Sakuma! Time to wake up! \nHinata: We brought her! Just like you told us to! \nYuta: Good mornin', sleepy head! *slams coffin*\nHinata: Wakey, wakey. *slams coffin even more*",
+    "charcount": 177
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "Whoa, not only do you show up without warning, you're also telling me crazy things! Get used to crossdressing? Do you even hear what you're saying? Honestly~ If I get used to it, I'll get addicted...? What? I don't want to be that way, okay?!"
+    "episode": 2,
+    "character": "Rei, Yuta, Hinata",
+    "quote": "Rei: Strange. It looks like there are two Aois here. \nYuta, Hinata: You're not seeing things. There are two of us! Because we're twins!",
+    "charcount": 136
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "Get used to crossdressing? What kind of torture is that... Unlike you, I actually have shame. I'm begging you, don't taint me~!"
+    "episode": 2,
+    "character": "Rei, Yuta, Hinata",
+    "quote": "Rei: I heard a rumor that that mongrel of ours caused you some trouble yesterday. Hinata! Yuta! \nHinata, Yuta: Yes, sir! *rolls tied koga out*",
+    "charcount": 142
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "H-Hey, Masked Pervert. What's that you're holding there...? I feel like I've said this a million times, but I have no interest in crossdressing! That means qipaos with slits is out of the question!"
+    "episode": 2,
+    "character": "Rei",
+    "quote": "Rei: It seems our puppy here wasn't trained properly. You must be the transfer student everyone's talking about. I am the owner of this cur, and his actions are entirely my responsibility. Young lady. Please forgive me.",
+    "charcount": 220
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "No way in he— Huh? Uniforms? What are you talking about?! I don't need to change into a uniform, I'm already wearing one! Geez, I really can't tell what you're going to say next..."
+    "episode": 2,
+    "character": "Rei, Anzu, Makoto, Hokuto, Subaru",
+    "quote": "Rei: Join Undead with me or 2wink with the twins. \nAnzu: Huh?--\nMakoto: Ah? \nHokuto: What?--\nSubaru: Why?",
+    "charcount": 106
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "...By \"uniforms,\" you mean the sailor one, huh? I knew it~ Even I'm not gonna be fooled by that kind of sugarcoating. I've already learned a thing or two by hanging around you, y'know?"
+    "episode": 2,
+    "character": "Hokuto, Makoto, Subaru, Anzu",
+    "quote": "Hokuto: I strongly object! \nMakoto: You're right, we don't have much experience, but-- \nSubaru: But we have hope! And no one will ever take that away from us! \nAnzu: Yes, that's true.",
+    "charcount": 184
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "Whaa?! If you're gonna get your way with just that, you're being too naïve!"
+    "episode": 2,
+    "character": "Rei",
+    "quote": "Rei: Hm. \n\nHeh. Very well said. If hope is all it takes to become real idols, then sing something and show me how it's done. Impress me and I will acknowledge you as future revolutionaries. Then use the power of my reputation to support you.",
+    "charcount": 242
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "What are you, some kind of evil villain?! Stop, let me go! I'll sue you! Why don't you tire out no matter how many times I refuse you?! In fact, you even look happy! This dude's seriously a weirdo!"
+    "episode": 2,
+    "character": "Hokuto, Rei",
+    "quote": "Hokuto: You agree with me, don't you, Akehoshi? And Yuuki? Just watch us sing, Rei! Then you'll see-- \nRei: You have not proved yourselves worthy of being named on the same level as me. Make no mistake, you are all still nothing.",
+    "charcount": 229
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "Hehehe, I see that it has a high-caliber finish."
+    "episode": 2,
+    "character": "Anzu, Jin",
+    "quote": "Anzu: After that, they just kept singing. Tirelessly. \nJin (flashbacks): Listen, you have to let your heart decide.",
+    "charcount": 116
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "Hey! Don't lift my skirt up! Honestly... It's fine now since it's just me, but it's a criminal offense if you do that to girls, y'know? Err, well, you still can't do unpleasant things to guys too, okay?"
+    "episode": 2,
+    "character": "Rei, Subaru",
+    "quote": "Rei: I've been observing your passion about starting a \"revolution\" against the student council very carefully. What do you call yourselves? \nSubaru: We're Trickstar! And you will never see a more sparkly or shiny group performance!",
+    "charcount": 233
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "Oh, President. Welcome back. ...Hey, please don't stare at me so intensely like that. It's like you're sizing me up, it makes me feel nervous."
+    "episode": 2,
+    "character": "Reo, Subaru, Hokuto, Makoto, Anzu",
+    "quote": "Rei: Also, it looks like she's made up her mind, as well. \nSubaru: Transfer student! \nHokuto: Producer! \nMakoto: Will you please take us on? \nAnzu: Yes! \nSubaru: All right! I can't wait! We're gonna sparkle together!",
+    "charcount": 217
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "Oh, you're back already? You said you were going to take care of some things, so I thought you'd take longer. Um, if you're going to tell him, let him know that I said \"thank you.\""
+    "episode": 2,
+    "character": "Koga, Rei",
+    "quote": "Koga: Please. You were aiming for this from the very beginning, weren't you, ya vampire bastard? \nRei: I can't help it. They've drawn me in with a sparkle that I haven't seen at this academy. \nAt least, not in a very long time.",
+    "charcount": 228
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: A Club Member's Misery",
-    "text": "Oh, that's right. He's the one who made the outfits for Cinderella. Now I understand why you wanted him to handle this, no matter what. ...Well, if I needed this many costumes, I would want to ask him for help, too."
+    "episode": 2,
+    "character": "Rei, Hokuto",
+    "quote": "Rei: Hidaka Hokuto. You are way too worried about being considerate to other people. When you're on stage, you need to pour out your whole heart and soul without filters or apologies. Therefore, I want you to train with the twins.",
+    "charcount": 231
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: Birthday Celebration (2021)",
-    "text": "I wonder what could it be? I hope it's not a prank... Hibiki-senpai suddenly came into my mind, does it have something to do with him? Huh? Why are you smiling at me so suspiciously, Anzu-san?"
+    "episode": 2,
+    "character": "Rei, Koga, Makoto",
+    "quote": "Rei: Yuuki Makoto. You need to gain strength in both your mind and in your body. Puppy, I'm counting on you. \nKoga: *growls* Yes!\nMakoto: *yelps*",
+    "charcount": 145
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: Birthday Celebration (2021)",
-    "text": "Um... When I open the biggest box, Hibiki-senpai is going to jump out—is that the surprise? Alright, then I'll start with the smallest... Whoa! There's white smoke coming from the inside! ...M-Masked Pervert?! Why are you jumping out of the smallest box?!"
+    "episode": 2,
+    "character": "Rei, Subaru",
+    "quote": "Rei: Akehoshi Subaru. \nSubaru: Uh, Yeah? \nRei: You are quite the genius. \nSubaru: 'Kay. \nRei: But you are the opposite of Hidaka. It's like you don't know how to blend in with other people when necessary. \nSubaru: Uh...",
+    "charcount": 219
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: Cinderellaesque",
-    "text": "Alright, sur— Wait, why are you acting all excited before I finished my sentence?! Well, you are the club president after all. So of course you can act Cinderella better than me. I'm still learning, y'know."
+    "episode": 2,
+    "character": "Rei, Subaru",
+    "quote": "Rei: Stick with it, and the path Trickstar should take will become clear. \nSubaru: I don't really get it, but if you're saying this will help us become even more sparkly... then I'm gonna give this everything I've got, transfer student!",
+    "charcount": 237
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: Cinderellaesque",
-    "text": "S-Sure... What, I'm too straightforward? And you're a good-for-nothing pervert. I don't have much confidence in my acting, y'know?"
+    "episode": 2,
+    "character": "Rei, Subaru, Makoto, Koga, Hokuto, Hinata, Yuta",
+    "quote": "Rei: Show me a light so blinding that it could turn us to ash in an instant. You are all shining stars, burning with dreams hidden in your hearts! \nSubaru: Yeah! \nMakoto: Right!\nKoga: Yeah. \nHokuto: Agreed! \nHinata, Yuta: Yup, yup!",
+    "charcount": 232
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: Cinderellaesque",
-    "text": "Gwah?! Wait, I don't want flowers— ...I lost a point? It wasn't Cinderella-like? Urgh... I didn't act quickly enough, so I can't blame you for deducting points."
+    "episode": 2,
+    "character": "Makoto, Koga",
+    "quote": "Makoto: Please go easy on me. Kay, friend? \nKoga: Huh? I'm not your friend, you four-eyed bean sprout! \n*kicks makoto's ass off the building* Come on, come on, come on!",
+    "charcount": 169
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: Cinderellaesque",
-    "text": "Err, you did magic right now so... \"Thank you, Fairy Godmother. With this, I can go to the ball.\" Heheh. Ask and you shall receive!"
+    "episode": 2,
+    "character": "Yuta, Hinata, Hokuto",
+    "quote": "Yuta: Act like an idiot! Start it from the top! \nHinata: You got this! Stand-up is easy comedy! \nHokuto: I can't do it! Even if you tell me to relax and be flexible--\nHinata, Yuta: Demerit! No talkin' back! \nHokuto: *whines*",
+    "charcount": 224
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Mini Talk] Tomoya Mashiro: Cinderellaesque",
-    "text": "There's no need to fret. I'm sure you can do it."
+    "episode": 2,
+    "character": "Tomoya, Mitsuru",
+    "quote": "Tomoya: Hi, I'm Mashiro Tomoya! I'm in class 1-A with Hajime, and we've known each other since we were in middle school. And to my left... \nMitsuru: I'm Hajime's best friend and the proud superstar of the group Ra*bits!",
+    "charcount": 219
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: Cinderellaesque",
-    "text": "I know. You gave me this role because you knew I could do it. Hmm, even though it feels like you just gave it to me for your own amusement... I still hope you have high expectations for me!"
+    "episode": 2,
+    "character": "Nazuna, Tomoya, Subaru",
+    "quote": "Nazuna: Hey! There you are! What're you guys hangin' around thwere for? Ansthwer me! \nTomoya, Mitsuru, Hajime: Big Bro! \nSubaru: Huh? Is this the upperclassman you were just talking about? He's smaller than I pictured.",
+    "charcount": 219
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: Cinderellaesque",
-    "text": "...Thank you, President. It feels weird to express my thanks to you so openly but... I'm doing my best, so keep your eyes on me, okay?"
+    "episode": 2,
+    "character": "Nazuna, Subaru",
+    "quote": "Nazuna: Hey, who're you callwin' small? I'm a thwird year and youwr uppercwassman! I'm also the weader of the Wa*bits, I'm Nito Nazhuna! And I know you' hearda me! \nSubaru: *pat pat head*\nNazuna: Stop petting me wight now!",
+    "charcount": 223
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: Cinderellaesque",
-    "text": "Believe in...myself? That's surprising for you to say... Since you're nothing even like what a club president should be. But I guess what you said resonates with me. Just a little bit."
+    "episode": 2,
+    "character": "Subaru",
+    "quote": "Subaru: ...And we were waiting excitedly for Shinonon's unit to take the stage, but something weird happened. The instant AKATSUKI's turn was over, that was it. The audience just got up and left. It was like the tide was pulling out.",
+    "charcount": 234
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: Dream School",
-    "text": "The person we bumped into earlier was really pretty, huh~♪ But the guy who played the princess was more \"captivating,\" though."
+    "episode": 2,
+    "character": "Subaru",
+    "quote": "Subaru: But Shinonon worked so hard for this. He saved up all the money he earned from his jobs. He wanted to shine during his first performance. But, his hard work didn't pay off. There's definitely something wrong with the system. I can't allow it!",
+    "charcount": 250
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: Dream School",
-    "text": "Yeah, I couldn't keep my eyes off him too. I didn't know there was such a big difference between middle and high schoolers. It's surprising to see that he looks more mature than the girls in our class."
+    "episode": 2,
+    "character": "Subaru",
+    "quote": "Subaru: If it's because of them and because of the messed up structure of Yumenosaki Academy that sweet and gentle kids are made to cry, then I'm all in now. I wanna see this whole system destroyed!",
+    "charcount": 199
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: Dream School",
-    "text": "\"His skin looked so smooth\"... You were watching him more closely huh, Hajime? All I got from it was how pretty his hair looked~♪ I bet it would be really silky if we got to touch it♪"
+    "episode": 2,
+    "character": "Anzu",
+    "quote": "Subaru: ...that sweet and gentle kids are made to cry, then I'm all in now...! \nAnzu: When such intense emotions came pouring out of Subaru--someone who's usually so cheerful and silly--I knew it was a moment I would never forget.",
+    "charcount": 230
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: Role of Romeo Is...?",
-    "text": "Oops! S-Sorry! I was in such a daze, I didn't even notice you were there! My face is really red? Nah, I'm not sick—I'm fine!"
+    "episode": 3,
+    "character": "Tetora, Kuro",
+    "quote": "Tetora: *almost trips over*\nKuro: Seriously, do you even know what \"chill\" means? You should try being a little more stoic. \nTetora: Of course I know what \"chill\" means. I don't think I've heard \"stoic\" before, but I'll look it up! For sure!",
+    "charcount": 242
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "[Mini Talk] Tomoya Mashiro: Role of Romeo Is...?",
-    "text": "My face is actually red due to drama club practice— Huh?! If you ask me what we practiced, I'll get even more red!"
+    "episode": 3,
+    "character": "Subaru, Kuro",
+    "quote": "Subaru: *growling*\nKuro: What's with those getups? \nSubaru: It's called \"protection!\" *growls more*",
+    "charcount": 99
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Mini Talk] Wataru Hibiki: Birthday Celebration (2021)",
-    "text": "Oh yes! I received a present from Tomoya-kun! Aren't you curious as to what it could be? Behold! A hairband for use when washing one's face! Simple, but it serves its purpose well, doesn't it~♪"
+    "episode": 3,
+    "character": "Kuro",
+    "quote": "Kuro: We're not looking for a fight. I wanted to return this. This young lady helped me out when I was in trouble. Thanks for that, miss.",
+    "charcount": 138
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Mini Talk] Wataru Hibiki: Birthday Celebration (2021)",
-    "text": "Hehehe. It's just like Tomoya-kun to pick out a present like this, wouldn't you agree?"
+    "episode": 3,
+    "character": "Kuro, Subaru",
+    "quote": "Kuro: Enemies? I'm a member of AKATSUKI... but it doesn't mean I have to go along with him and defend a system I don't believe in. \nSubaru: Uh?\nKuro: If you guys are planning to try and breathe some new life into the academy, I'm rooting for ya. Heh.",
+    "charcount": 250
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Mini Talk] Wataru Hibiki: Birthday Celebration (2021)",
-    "text": "Oh, are you referring to the game of charades we played earlier? That was certainly a spectacle, wouldn't you agree? With Tomoya-kun naturally assuming the position of emcee, and Subaru-kun voicing objections to Hokuto-kun's gestures."
+    "episode": 3,
+    "character": "Anzu, Kuro, Subaru, Tetora",
+    "quote": "Anzu: Um. This isn't...\nKuro: I screwed up the important part. Sorry, I must have grabbed my little sister's by mistake.\nSubaru: Wow, your little sister must be really good at embroidery!\nTetora: The chief's the one who embroidered it!",
+    "charcount": 235
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Mini Talk] Wataru Hibiki: The Prince of Dreams",
-    "text": "Do call out to Tomoya-kun as well! This is a good chance for him to be the leading role, so take him with you even if it means you’ll need to drag him out...☆"
+    "episode": 3,
+    "character": "Tetora, Subaru",
+    "quote": "Tetora: *chuckles* The chief made AKATSUKI's special stage clothes and the costumes for my unit, RYUSEITAI. And he does everything by hand, too! \nSubaru: That's awesome! *sees his own basketball bat he's holding* Uh... *chuckles nervously*",
+    "charcount": 239
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Mini Talk] Wataru Hibiki: The Prince of Dreams",
-    "text": "Hehehe, you treasure your juniors, after all. Raising a young sprout with kindness and care is also love! In that case, I shall do the exact opposite and pour my love into some spartan training...☆"
+    "episode": 3,
+    "character": "Kuro",
+    "quote": "Kuro: I believe that it's better if a member can make the outfits for their own unit. The best costumes are those made with love and care by someone who really understands the people who are going to be wearing them.",
+    "charcount": 217
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Mini Talk] Wataru Hibiki: The Prince of Dreams",
-    "text": "Oh my, this my form of love, you know? If you keep being easy on him then even a racehorse can turn into livestock. Using strict methods from time to time can serve to be good training."
+    "episode": 3,
+    "character": "Subaru, Mao",
+    "quote": "Subaru: Yoo-hoo! Sally! \nMao: Hey. \nSubaru: You're here! Ha, ha, ha! But how? Did you quit the student council? \nMao: Sorry, but no. I just had some free time to spare. \nSubaru: All right, we're finally together again! Yay!",
+    "charcount": 224
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "[Underneath the Mask] Wataru Hibiki",
-    "text": "I'll be waiting for you in a faraway place."
+    "episode": 3,
+    "character": "Mao, Subaru",
+    "quote": "Mao: I'm sorry for not introducing myself the other day. My name's Isara Mao. I'm in the basketball club with Subaru, student council Treasurer, and a member of Trickstar. Nice to meet you. \nSubaru: Yeah! And if you want, you can call him Sally!",
+    "charcount": 246
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "2017 Christmas Campaign",
-    "text": "Ugh, a creepy mask... This is definitely the Masked Pervert's, isn't it? Even though it's Christmas, he still wanted something like this... He's completely beyond understanding."
+    "episode": 3,
+    "character": "Hokuto, Mao",
+    "quote": "Hokuto: Don't worry about him being a student council officer, though. We know he's a friend we can trust. \nMao: I skipped out on individual training, but I promise not to miss any unit practices. I hope that'll make up for it.",
+    "charcount": 228
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "2020 Christmas Campaign",
-    "text": "When I woke up, there was a present for me with \"Amazing!\" written on the tag."
+    "episode": 3,
+    "character": "Hokuto, Makoto",
+    "quote": "Hokuto: Sakuma... told us to switch to practicing as a unit starting today, for some reason. \nMakoto: I can't help feeling he's up to something. I just know he's pulling strings behind the scenes.",
+    "charcount": 197
   },
   {
-    "character": "Nazuna Nito",
-    "story": "Amusement Live: Chapter 10",
-    "text": "Ah~ It's because you do the same stuff to Tomo-chin that he hates you as well. And here I thought you weren't paying any mind to it, but I guess you worry as much as the next person."
+    "episode": 3,
+    "character": "Makoto, Subaru",
+    "quote": "Makoto: And how did things go for you guys? \nSubaru: Kiryu was just giving back something he'd borrowed, and one other thing. Hmph. You'll see.",
+    "charcount": 144
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Amusement Live: Chapter 10",
-    "text": "Oh, I don't plan to change anything regarding Tomoya-kun, though. I am inquiring strictly about countermeasures for Himegimi."
+    "episode": 3,
+    "character": "Hokuto, Mao",
+    "quote": "Hokuto: It's a little bit awkward that I didn't ask you this already, but... Isara... are you sure you want to go through with this? \nMao: What are you saying? I am still a member of Trickstar, after all.",
+    "charcount": 205
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Amusement Live: Chapter 7",
-    "text": "Oho? Tomoya-kun, why are you averting your gaze? Please look at me more! Come on now, I'm being reflected in your eyes...♪"
+    "episode": 3,
+    "character": "Hokuto",
+    "quote": "Hokuto: Then let's show the student council exactly what we're made of. We'll give it everything we've got. And we'll make our dream come true. When Yumenosaki Academy is dark and stagnant, Trickstar will shine a light to brighten it!",
+    "charcount": 235
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Amusement Live: Chapter 7",
-    "text": "S-Stop it! I was doing my best to pretend we're strangers~! Rather, if you don't have any business here, get lost. We're busy practicing for the Live Party, so I don't have the time to give you attention, got it?"
+    "episode": 3,
+    "character": "Mao, Kaoru",
+    "quote": "Mao: Sorry, but did a girl just come through here a while ago? The new one who enrolled in the production course, maybe? \nKaoru: Oh, she did, and she was a cutie, too! I only got a quick glance, but for these eyes, that was plenty.",
+    "charcount": 232
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Amusement Live: Chapter 7",
-    "text": "You sure say some saddening things sometimes. Oh well, I know that this is just Tomoya-kun's way of making a pass at me in any way he can. Just kidding~ It's not like I have free time either. I'll leave once I'm done with my business here."
+    "episode": 3,
+    "character": "Kaoru",
+    "quote": "Kaoru: She is the single flower that blooms in the desert! So I have to pick her very carefully before anybody else has a chance to defile her!",
+    "charcount": 144
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Amusement Live: Chapter 8",
-    "text": "Back up, I have no idea what you're talking about?! Prez, don't just agree with yourself and explain it to us in depth instead, will you~?"
+    "episode": 3,
+    "character": "Rei, Kaoru",
+    "quote": "Rei: ...I was wondering where you might be, and of course here you are, chasing girls.\nKaoru: Ugh, it's Sakuma. Perfect timing. I just remembered I have a date. Bye, now.\nRei: That guy... Here and there like a summer breeze, befitting his namesake.",
+    "charcount": 248
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Amusement Live: Chapter 8",
-    "text": "I wish you'd understand what I'm thinking without having to put it into words~ This is proof that you don't love me enough yet."
+    "episode": 3,
+    "character": "Rei, Mao",
+    "quote": "Rei: As for what you're after, you'll find her in those shadows. \n*clattering* *anzu peeks from behind the counter*\nMao: Why are you hiding back there?",
+    "charcount": 152
   },
   {
-    "character": "Nazuna Nito",
-    "story": "Ballet: Principal (2)",
-    "text": "You say all that, but you actually really admire Wataru-chin, don't you? He's a little weird, but I'm sure you can become good friends with him~♪"
+    "episode": 3,
+    "character": "Anzu, Mao",
+    "quote": "Anzu: Hey. I brought something. \nMao: Hm?\nAnzu: They're honeyed lemon slices. \nMao: *nom* Man, that's nice. Really hits the spot when I'm this tired. \nAnzu: *laughs* I'm glad you like them.",
+    "charcount": 190
   },
   {
-    "character": "Nazuna Nito",
-    "story": "Ballet: Principal (7)",
-    "text": "Wataru-chin says he likes you, and just wants to mess with you a little..."
+    "episode": 3,
+    "character": "Mao",
+    "quote": "Mao: Hey. We may both be in difficult positions at this school right now, but I'm looking forward to working with you.",
+    "charcount": 119
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Bogie Time: 5",
-    "text": "Wait, why'd you call out to me just now? Is exclaiming \"Tomoya-kun\" with a big smile on your face your equivalent of Hibiki-senpai yelling \"Amazing!\" whenever he's excited?"
+    "episode": 3,
+    "character": "Mao",
+    "quote": "Mao: ...Makoto used to be a model until he had some setbacks in his career. Maybe because of that, he tends to overthink things sometimes. He starts feeling like he's not good enough, or he gets so scared of failing that he can't even try.",
+    "charcount": 240
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Card Battler: After-School Duel (1)",
-    "text": "If the Masked Pervert said \"I made a lunch box for you☆\" then I'd first think it was a time bomb, or at best a mystery box."
+    "episode": 3,
+    "character": "Mao",
+    "quote": "Mao: *sighs* Makoto has everything it takes. He has so much potential. And he's as important to Trickstar as any of us. He just... needs to believe in himself the way we all believe in him.",
+    "charcount": 190
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (2)",
-    "text": "Whoaaa?! H-H-How the hell were you able to stick onto the ceiling, Hibiki-senpai?!"
+    "episode": 3,
+    "character": "Mao, Makoto",
+    "quote": "Mao: Heads up! \nYou had us all worried. Where have you been this whole time? \nMakoto: Sorry about that. I got caught up in a conversation with someone obnoxious.",
+    "charcount": 162
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (2)",
-    "text": "Hehe, you're too naïve, Tomoya-kun! Since I'm an entertainer, I always have to look for ways to make an amazing entrance☆"
+    "episode": 3,
+    "character": "Subaru, Makoto, Izumi, Mao",
+    "quote": "Subaru: Oh! There you are. And looks like there's four of you now! \nMakoto, Mao: Wait, there are four of us? \nIzumi: Hey, Yuu. What's up? \nMao: Hm?--\nMakoto: *gasps*",
+    "charcount": 165
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (3)",
-    "text": "Hey, what are you two doing? It's almost time for the grand opening, so please stop fooling around! Especially you, Hibiki-senpai! You're only here because Hokuto-senpai couldn't make it! Control yourself!"
+    "episode": 3,
+    "character": "Izumi, Mao",
+    "quote": "Izumi: What's the matter, buddy? You look like you've seen a ghost. Kinda rude, honestly. \nMao: What is up with you? \nIzumi: You're not a part of this conversation. Step off, extra.",
+    "charcount": 182
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (3)",
-    "text": "You became a full-fledged member of society a long time ago. The academy clearly doesn't have your back anymore."
+    "episode": 3,
+    "character": "Hokuto, Makoto",
+    "quote": "Hokuto: Yuuki, do you know this guy? \nMakoto: This is the \"someone obnoxious\" I mentioned. Sena Izumi. He's a member of Knights. For some reason, he's been bugging me like this for as long as I've known him.",
+    "charcount": 208
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (3)",
-    "text": "Ah, the good ol' scolding...☆ However, the real world is far more selective than a school packed with a wide variety of people."
+    "episode": 3,
+    "character": "Izumi",
+    "quote": "Izumi: I don't know why you're always so eager to practice when it's not enough to make up for your lack of talent. You're like a beautiful doll, Yuu. Meant to be displayed silently. Quit playing around. You're meant to be a model.",
+    "charcount": 231
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (3)",
-    "text": "In retrospect, aren't you still the same old Tomoya-kun? And I don't mean that in a bad way!"
+    "episode": 3,
+    "character": "Makoto",
+    "quote": "Makoto: I'm not playing around. This is no game. This is what I wanna be. My life was empty. But since I joined Trickstar, I feel like I finally have a treasure to protect. \n\nAnd I am not going to give that up.",
+    "charcount": 210
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (3)",
-    "text": "You threw that at me so casually... I'm hurt. I mean, just because you said it wasn't \"in a bad way\" doesn't mean you can just go say whatever the hell you please!"
+    "episode": 3,
+    "character": "Izumi",
+    "quote": "Izumi: Please, what a joke. Making it in the idol industry isn't that easy. It takes more than just hard work and passion. \n\n(I always thought of you as a younger brother.)\n\nMakoto: What do I have to do to get that guy to leave me alone?",
+    "charcount": 238
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (3)",
-    "text": "That's wonderful. You are raising the standards of what's \"normal\" in your own way~ It's a different approach from merely excelling in a single area, and I think it's commendable."
+    "episode": 3,
+    "character": "Mao, Makoto",
+    "quote": "Mao: Well... First, let's focus on the problem that's in front of us. \nMakoto: Uh!\nMao: That'll show him. We're gonna win next week and prove that you're on the right path. The one you chose for yourself!",
+    "charcount": 205
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (3)",
-    "text": "Whatever you just said pisses me off... But that's just who you are."
+    "episode": 3,
+    "character": "Mao, Hokuto",
+    "quote": "Mao: But I thought you didn't like turning to your parents' connections for help. \nMao: But Hokuto... \nHokuto: We can't afford not to, we're up against the student council. And AKATSUKI. So we can't hold anything back.",
+    "charcount": 219
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (3)",
-    "text": "Heheh. Good guess, Tomoya-kun! It's exactly what you say it is! As idols and actors, we are sure to be beautiful, graceful, and sometimes adorable! I am certain the customers will be pleased♪"
+    "episode": 3,
+    "character": "Subaru, Hokuto",
+    "quote": "Subaru: Guys, this song is so sparkly and fun! It's perfect, exactly what we needed right now! Thank you!\nHokuto: Hey, would ya take it easy?!\nSubaru: Aw, man, I can't wait to perform this! We're all gonna be dancing like crazy! It'll be so much fun!",
+    "charcount": 250
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (3)",
-    "text": "To show the others an example, please write \"LOVE\" in extra-large letters on my omurice...☆"
+    "episode": 3,
+    "character": "Hokuto, Mao, MAkoto",
+    "quote": "Hokuto: ...we're finally here. \nMao: All that's left is to get on that stage and show everyone what we've got. \nMakoto: We've put our blood, sweat, and tears into this. There's no way we're going to let that go to waste!",
+    "charcount": 221
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (3)",
-    "text": "Ahaha. This is Dead End Café, so I'll be drawing a skull instead. Is that alright with you? ♪"
+    "episode": 3,
+    "character": "Subaru, Hokuto",
+    "quote": "Subaru: Let's not get too worked up yet! How's this? To help us relax, let's have Hokke do a comedy skit. Okay! Now show us what you got! \nHokuto: No way. If I drop it on you now, you're still gonna be laughing during the show.",
+    "charcount": 228
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (3)",
-    "text": "Oh my, even how you treat your superiors has changed~ Good grief, who taught you these manners?"
+    "episode": 3,
+    "character": "Subaru, Hokuto",
+    "quote": "Subaru: That face, hilarious! \nHokuto: Too close. \nSubaru: Oooh, what's my line? \nHokuto: This isn't a buddy routine! \nSubaru: Oh, so it's like a meta bit! \nHokuto: It's not a bit at all!",
+    "charcount": 188
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (4)",
-    "text": "Ahaha. This kind of role does fit you though, Ayase-senpai. Plus, it balances out with our noisy coworker, so it's fine. You know who I mean, the dead ex-clown—"
+    "episode": 3,
+    "character": "Hokuto, Rei, Subaru",
+    "quote": "Hokuto: What an unexpected surprise, but I'm glad you're here. Because we wanted to thank you for allowing us to use that practice room. \nRei: Not at all. I am only atoning for my past sins. \nSubaru: Atoning for your sins?",
+    "charcount": 223
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (4)",
-    "text": "Man, you can tell how damn loud he is just by looking at him. But because he stands out so much, we're going viral on social media. There might be an even bigger crowd in the afternoon since he's a special guest for today."
+    "episode": 3,
+    "character": "Rei",
+    "quote": "Rei: Let me tell you an old story. A tale from a time when we were called not the Three Eccentrics, but the Five Eccentrics. \nWe were known as the incarnation of evil. Our power was unchecked.",
+    "charcount": 193
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (5)",
-    "text": "Of course. I'd say Hibiki-senpai's acting more like support, passing orders from person to person and such."
+    "episode": 3,
+    "character": "Rei",
+    "quote": "Rei: We were known as the incarnation of evil. Our power was unchecked. We turned Yumenosaki Academy into a churning cesspool of corruption for our own benefit. \n\nAnd the ones who finally brought an end to our reign were the student council.",
+    "charcount": 242
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (5)",
-    "text": "What the actual hell does that even mean?!"
+    "episode": 3,
+    "character": "Rei",
+    "quote": "Rei: Those students who felt lost amid the violence saw them as saviors. After that, they enforced the laws of Yumenosaki Academy with an iron fist and brought peace back to the campus. But it has since become an oppressive place of study.",
+    "charcount": 240
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (5)",
-    "text": "Leave the café to me. Tomoya-kun, could you give me a hand?"
+    "episode": 3,
+    "character": "Rei",
+    "quote": "Rei: We rested on our laurels and abused the power that we held as idols. Our own foolishness brought this on. And now the school is paying for our mistakes. That's why I need you to believe me.",
+    "charcount": 194
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (5)",
-    "text": "Um... Well... I'm sure Hibiki-senpai will be fine. This dude has ridiculously high stats anyways. You should go focus on finding Ayase-senpai."
+    "episode": 3,
+    "character": "Rei",
+    "quote": "Rei: I hold no grudge against the student council. But I have to set this right. I need your help, and want to offer you my guidance as you grow. I want to see what Yumenosaki Academy can become. \n\nCall it the curiosity of the old.",
+    "charcount": 232
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (6)",
-    "text": "(I wonder if this is too much for even Hibiki-senpai to handle...?)"
+    "episode": 3,
+    "character": "Rei, Subaru, Hokuto, Mao, Makoto",
+    "quote": "Rei: Please, set the hands of this old clock in motion once again. Through your voices and performances, let me and this school feel your dreams. \nSubaru, Hokuto, Mao, Makoto: Yes, sir!",
+    "charcount": 186
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (6)",
-    "text": "(Whispering) Tomoya-kun, Tomoya-kun."
+    "episode": 3,
+    "character": "Keito, Tori",
+    "quote": "Tori: *rambling* ...Now that the festival is here, the bumbling administrators and the unwashed masses alike can witness the power of the student council for themselves! \nKeito: Just give me your report, please.",
+    "charcount": 211
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (6)",
-    "text": "Yeah, what is it, Hibiki-senpai?"
+    "episode": 3,
+    "character": "Keito, Tori",
+    "quote": "Keito: And preparations for the concert?\nTori: ...the only unit participating is Isara and his loser friends. We finished up all the preparations like literally forever ago. Everything's ready, so please feel free to go out and crush them.",
+    "charcount": 239
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (6)",
-    "text": "I suddenly feel like putting on a show. Would you be so kind as to become my assistant and lend me a hand?"
+    "episode": 3,
+    "character": "Kuro, Keito",
+    "quote": "Kuro: Where have you been? You're late, boss. \nKeito: Kiryu. I need an explanation, now. \nKuro: It looks like the lid covering Hell came off. There's a crowd going crazy in there, and it doesn't sound like they'd calm down for anything.",
+    "charcount": 237
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (6)",
-    "text": "Hah? Just when I thought you'd say that..."
+    "episode": 3,
+    "character": "Koga, Kaoru",
+    "quote": "Koga: Shake, you fools! Shake, you fools! This S1 is ours now! We're taking over this hall! We won't let you go home until your eardrums burst! \nKaoru: All you girls who came from far and wide to see us-- I want you... to give your hearts to me!",
+    "charcount": 246
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (6)",
-    "text": "That is precisely why I want to do it, Tomoya-kun! Please put aside common sense and think for yourself. Now, take a close look around the café...☆"
+    "episode": 3,
+    "character": "Adonis, Koga",
+    "quote": "Adonis: *mic whirrr*\nKoga: Dammit Adonis! We look dumb if you don't say something, too! \nAdonis: I'm not very good at talking. But I try to give back through my singing and dancing.",
+    "charcount": 182
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (6)",
-    "text": "Although there are no empty seats, there is still an abundance of empty space within the café. We can therefore let everyone in and entertain them with a performance as they wait to be seated."
+    "episode": 3,
+    "character": "Keito, Rei",
+    "quote": "Keito: You lowlifes. \nRei: Welcome to the show, Hasumi. It's too bad you couldn't catch the whole set.",
+    "charcount": 103
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (6)",
-    "text": "\"But\"? Now, Tomoya-kun, surely you can't be entertaining the possibility of failure?"
+    "episode": 3,
+    "character": "Keito, Rei",
+    "quote": "Keito: We are ending this show right now! \nRei: But with so few units competing today the bill was looking a bit thin, wasn't it? That's why we jumped in at the last moment to add a little color to this concert.",
+    "charcount": 212
   },
   {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (6)",
-    "text": "Or were you entertaining the possibility that Miss Anzu and the rest won't return in time? Oh dear, I don't recall raising such a heartless child."
+    "episode": 3,
+    "character": "Rei",
+    "quote": "Rei: Dear followers, hear these words: We are the demon soldiers, and these men are the samurai who would take all our heads. In the war to come, which side will be victorious? Sear this into your memory!",
+    "charcount": 205
   },
   {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (6)",
-    "text": "Since when did I ever see you as my dad?!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (6)",
-    "text": "...Fine. Whatever. I'll go along with your plans, if you insist. After all, I believe that they'll come back as well."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (6)",
-    "text": "Splendid! I knew you would say that♪ Now then, Tomoya-kun, please let everyone in at once! We shall make all of them have the time of their lives—it's showtime! ♪"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (6)",
-    "text": "God, you truly are a natural-born entertainer, huh?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (6)",
-    "text": "Go break a leg, Hibiki-senpai! You better apologize if this show of yours fails!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (6)",
-    "text": "Hehehe. If it came to that, I'd give you permission to boil or burn me, to reprobate me in any way you'd see fit. But fear not, I'd sooner perish than allow such mistakes to occur... Though, I'm already dead right now♪"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (7)",
-    "text": "(Yeah, all of the customers' reactions were great... The mood's not bad at all. But he can't use theatrics to distract them from the slow service forever... It seems like everyone's hungry and such... They'd probably prefer character over looks.)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (7)",
-    "text": "(Hibiki-senpai, I think they're coming back soon! Please hold out juuust a little bit longer!)"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (7)",
-    "text": "(Haha. Could you be trying to say, \"I really like you, Hibiki-senpai! You're so cool! I love you!\"...? My, you're far too kind. Thank you, Tomoya-kun♪ Kiss...☆)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Dead End Street (7)",
-    "text": "(Uhm, I think there's a big misunderstanding here?! What the hell was that weird signal I got back? Oh, whatever. This signal I sent can only mean one thing! The rest is up to you, Hibiki-senpai!)"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Dead End Street (7)",
-    "text": "(Hehe. Fret not; I've received your message, Tomoya-kun. This is mere child's play when compared to the feats I had to accomplish in Mrs. Hidaka's grueling audition.)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Epilogue (1)",
-    "text": "Right now, Hibiki-senpai's putting on a show to stall for us. If we can't get the food out in time, the customers would get upset. We gotta turn the tables before that happens. Just look at him. He's been doing that all afternoon."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Epilogue (1)",
-    "text": "Ahaha. More often than not, he overshadows the lead despite being a supporting actor. That guy likes playing comedic roles. Actually, with how easily he grabs the spotlight, it's no wonder why he takes the stage! Seriously... He never ceases to amaze everyone."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Epilogue (1)",
-    "text": "No, no. That's just theater talk for \"he's a really talented guy.\" Since Hibiki-senpai can pretty much do anything, there's no need for him to rely on any gimmicks."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Epilogue (1)",
-    "text": "But y'know, you can't do a one-man show on the grand stage. There's only one Hibiki-senpai, so of course I have to help him."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Epilogue (1)",
-    "text": "(The café has been rather disorderly for quite a while now, but that, too, should be resolved as soon as Tomoya-kun and I take charge.)"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Epilogue (1)",
-    "text": "(But, first, I'd best clear up his misunderstandings. Although I am an actor—a single individual—I am also \"your\" Wataru Hibiki.)"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Epilogue (1)",
-    "text": "(If you believe that I'd do something as \"normal\" as only playing one role, perish the thought! I shall play three, four—nay, an infinite amount of them! ...If that is what is desired of me by my audience—the you to whom this Wataru Hibiki is dedicated.)"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Epilogue (1)",
-    "text": "...Very well then! Ladies and gentlemen, feast your eyes as I saw Tomoya-kun in half!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Epilogue (1)",
-    "text": "Hehehe. I suspected something like this may happen, so I even brought along a box and sword for the occasion♪ The tools have already been prepared, so all that's left is for you to step inside the box...☆"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Epilogue (1)",
-    "text": "No way in hell. What do you mean that you \"suspected something like this may happen\"?! And why did you even bring those here, Hibiki-senpai?! We are NOT going to put the \"dead end\" in \"Dead End Café\"!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Epilogue (1)",
-    "text": "Oh? But I'm certain everyone here would love to see you get sawn in half... Are you really going to refuse them all, Tomoya-kun?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Epilogue (1)",
-    "text": "Stop! This isn't funny! Why are you staring at me like th— AaaaaiiiIIIEEEEEEE?!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Epilogue (2)",
-    "text": "Tomoya-kun, what incredible moxie! You had such amazing reactions☆"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Epilogue (2)",
-    "text": "Ugh, I'm seriously exhausted... I was genuinely terrified! It doesn't matter how much of it was just \"magic,\" I really thought I was gonna have a heart attack!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Epilogue (2)",
-    "text": "Hm~ It was because of your dedication to the show that all the customers were able to enjoy it to the fullest, though!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Epilogue (2)",
-    "text": "And so, due to the disorder in the restaurant turning into excitement, we were able to have an extremely satisfying opening event! It was certainly a performance befitting Dead End Café♪"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Epilogue (2)",
-    "text": "Could you not involve me in such a dangerous act without letting me know first?!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Epilogue (2)",
-    "text": "You might've just been pretending to debate with yourself on whether you'd actually shove that sword right through me or not, but I seriously thought I was gonna die!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Epilogue (2)",
-    "text": "Hehehe. If we are to deceive an audience, it simply must be from atop a stage...♪"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Epilogue (2)",
-    "text": "You can't pull one over on me by trying to say it like it's some proverb, okay?!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Epilogue (2)",
-    "text": "Of course I would. Are you having any, Hibiki-senpai?"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dead End Land: Epilogue (2)",
-    "text": "The show must go on... On stage, whatever will be, will be. It is simply inevitable that you will be involved in such predicaments when performing, Tomoya-kun♪"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Dead End Land: Epilogue (2)",
-    "text": "Uh, no. Don't try to justify your actions from earlier."
-  },
-  {
-    "character": "Mitsuru Tenma",
-    "story": "Dream Travel: Chapter 5",
-    "text": "Ah, it's the Mi~ster Masked Perv guy! Tomo-chan often talks about you, Mi~ster! You guys get along well~♪"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dream Travel: Chapter 5",
-    "text": "Oh my, but Tomoya-kun stubbornly refuses me, saying \"I don't want people to think we know each other!\"~?"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dream Travel: Chapter 5",
-    "text": "Well, we did get all excited talking about movies together, so I wonder if he feels closer to me now. This makes me happy~ Let me sing a song. How amazing...☆"
-  },
-  {
-    "character": "Mitsuru Tenma",
-    "story": "Dream Travel: Chapter 5",
-    "text": "But I like Mi~ster Masked Perv. Tomo-chan also says he doesn't like being the \"Masked Pervert's target,\" but it doesn't seem like he hates him. What was it, \"The greatest hate proceeds from the greatest love\"~?"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Dream Travel: Chapter 5",
-    "text": "Certainly~ You are Tomoya-kun's friend, after all. I will teach you every single kind of amazing!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Ensemble Stars!! profile",
-    "text": "A true actor makes the impossible possible and turns dreams into reality."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Ensemble with Senpai: Wataru & Tomoya",
-    "text": "Of course! Both of us want to reach out and grab onto him, since he's our senpai. So let’s hit him with our full strength— Hope you're ready...!"
-  },
-  {
-    "character": "Nazuna Nito",
-    "story": "High Five!: High Jump (3)",
-    "text": "I guess he just finds it difficult to explain things in his own words. Wataru-chin is the same. I was in the same class as him last year, so I’ve seen firsthand how he can be."
-  },
-  {
-    "character": "Mitsuru Tenma",
-    "story": "High Five!: Hop Step (1)",
-    "text": "Do you think it's all thanks to that Masked Pervert dude? Some people scream into pillows to release stress. Maybe Tomo-chan does it by screamin' at that guy. Or maybe he's just built up a tolerance for puttin' up with crazy?"
-  },
-  {
-    "character": "Hajime Shino",
-    "story": "High Five!: Hop Step (1)",
-    "text": "It seems like Hibiki-senpai isn't able to pay as much attention to Tomoya-kun as he used to. Perhaps he does have a lot of pent-up stress, and no outlet for it? I get it. I miss having Akehoshi-senpai around to pat me on the head or give me a tight squeeze every now and then—"
-  },
-  {
-    "character": "Nazuna Nito",
-    "story": "Home screen interaction (!!)",
-    "text": "\"A job that's out of the ordinary\"... Why don't you star in a variety show with someone as unique as Wataru-chin?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Home screen line (!!)",
-    "text": "It's so warm that I can't focus... If only Hibiki-senpai were here to do a magic trick... That'll wake me up."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Home screen line (!!)",
-    "text": "Tomoya-kun's reactions are considerably more \"mature\" compared to last spring's. It gives me a bittersweet feeling."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Home screen line (!!)",
-    "text": "It would be nice to have Tomoya-kun's ice cold gaze pierce right through me in this hot weather, but he hasn't been that cold to me as of late..."
-  },
-  {
-    "character": "Shu Itsuki",
-    "story": "Human Comedy: Humanity (10)",
-    "text": "Hmm? Aah, I didn't intend to ridicule your senior, whom you hold in such high regard. Wataru is one of the few people in this world that I can call my friend and equal... Think of what I just said as a frivolous, lighthearted jest."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Human Comedy: Humanity (10)",
-    "text": "No, I really couldn't care less about that guy right now..."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Human Comedy: Humanity (6)",
-    "text": "\"Until we all get tired of playing together, let's link our hands and fly around in the sky!\""
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Human Comedy: Humanity (6)",
-    "text": "\"Now, hold out your hands: this is an invitation to Neverland! An island of beauty that's straight out of your wildest dreams—a mysterious land full of love and surprise!\""
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Human Comedy: Humanity (6)",
-    "text": "\"We'll serve as your guides! Let us laugh together, hold hands, and play to our hearts' content! Welcome to this Amazing World...♪\""
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Human Comedy: Humanity (6)",
-    "text": "If I keep at it and build myself up, I'll be on the same level as him one day... Though it won't be easy! I might be able to at least grasp at the strands of his hair, right? That's why, I'll do my best! I'll dedicate each day to working towards that goal...!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Human Comedy: Humanity (6)",
-    "text": "And before long, I might be able to reach the sun like this! Even if the heat burns me instantly... That's still a great feat no one else has done! I'll be remembered in history! And that's definitely not \"ordinary\"!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Human Comedy: Tragedy (10)",
-    "text": "Ah! Wait, I didn't buy this plush for myself, okay?! My little sister's just a big fan of President Hibiki...!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Kung Fu: Master Part-Timer (2)",
-    "text": "You'd be better off not coming. Listening to that Masked Pervert would just rot your brain..."
-  },
-  {
-    "character": "Hinata Aoi",
-    "story": "Kung Fu: Master Part-Timer (2)",
-    "text": "Then why don't you get Hibiki-senpai to teach you? I'm sure he'd be over the moon if you asked him for help. I mean, he seems to really have a thing for you, Tomo-kun♪"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Kung Fu: Master Part-Timer (2)",
-    "text": "Really? Hmm, I guess he is kind of a big deal...?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Kung Fu: Master Part-Timer (3)",
-    "text": "I'm gonna mess up my speech againnnn! Right when I finally stopped accidentally saying all the weird stuff that Masked Pervert's corrupted my vocabulary withhh~!"
-  },
-  {
-    "character": "Hokuto Hidaka",
-    "story": "Kung Fu: Master Part-Timer (4)",
-    "text": "Tomoya. You know, from time to time, you act just like that Masked Pervert. I'm worried about you... What if his bad influence is starting to rub off on you?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Kung Fu: Master Part-Timer (4)",
-    "text": "What? No I'm not! I won't let anyone get away with saying something like that, not even you, Hokuto-senpai! Take it back!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Kung Fu: Master Part-Timer (4)",
-    "text": "Everything is that horrible Masked Pervert's fault! He's the root of all evil! We should go assassinate him. We could nick him with a poison dart or something...☆"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Lost Legend: Chapter 2",
-    "text": "In short, it's a problem with the president... That Masked Pervert! Lately, that guy's been acting super weird!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Lost Legend: Chapter 2",
-    "text": "I know he's going to graduate soon, so as far as performances, costumes, and roles go, I accepted them all without any complaints... Ah, well, I can't say I accepted them without any complaints, but I didn't offer any particular resistance..."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Lost Legend: Chapter 2",
-    "text": "He's the same as ever, running around while yelling \"Amazing!\" and doing some alien practice... A-And that's not it! He even said, \"You have improved a lot, Tomoya-kun☆\" If he wasn't wearing a mask, I really would've thought he turned into an alien..."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Lost Legend: Chapter 2",
-    "text": "Huh? Are you saying that I want to do weird practices with him? That's not it, Anzu-senpai! I have the heaviest feeling! It's like being under the guillotine—you can't oppose anything, can only sit still, and you can't see where the blade'll fall—that kind of panicked feeling!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Lost Legend: Chapter 2",
-    "text": "Do you understand me, Anzu-senpai? If you were in my shoes, could you understand it? \"I have no way to understand you\"... Aha... M-Makes sense... You can only get this kind of feeling after spending time with that inexplicable president..."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Lost Legend: Chapter 2",
-    "text": "The president doesn't even show up in the clubroom these days. To add, there's no pigeons, no roses, no balloon, no origami—basically, all of the crazy, messy things that were always around are now totally gone, the normal stuff too! It's scary, right? Isn't it really scary?!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Lost Legend: Chapter 2",
-    "text": "Ahh, \"In my hands, I have: Wataru Hibiki. If you want to ensure his safety, then come and rescue him...☆\" What the hell?! This is totally a one man show! Who would kidnap him! Absolutely nobody would kidnap him at all!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Lost Legend: Chapter 2",
-    "text": "(Really, I've been running away from him all last year... Now with that loud guy about to graduate, should I take the initiative again? How am I supposed to become a reliable man if I keep waiting around like this?)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Lost Legend: Chapter 2",
-    "text": "I got it. I'll accept the president's challenge and save him. And afterwards, depending on how bad the details were, I'll decide if I want to run away again or not! Oh, I got a bit too worked up..."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Lost Legend: Chapter 6",
-    "text": "No, if our president was really kidnapped, then a more effective threat would probably be something like \"Everyone obey me, or else I'll release him!\"..."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Lost Legend: Chapter 7",
-    "text": "Ah, Tomoya-kun, you've suddenly turned so cold. What a pity☆ The moment you plucked the rose, the legend became reality and the magic lost its effect."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Lost Legend: Chapter 7",
-    "text": "As expected from the King of Rabbits, you indeed have the tolerance of a King! Tomoya-kun, you ought to cultivate a little more patience...☆"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Lost Legend: Chapter 7",
-    "text": "In the place where they triumphed grew a beautiful rose. It's said that the one who plucks this rose will, hereafter, become one of Yumenosaki Academy's most brilliant idols! Now, everyone, give a round of applause for Tomoya-kun, the one who holds all of Yumenosaki's hopes!"
-  },
-  {
-    "character": "Nazuna Nito",
-    "story": "Lost Legend: Chapter 7",
-    "text": "Wataru-chin, I know you want to congratulate Tomo-chin on his efforts, but this story is just something you made up, right?"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Lost Legend: Chapter 7",
-    "text": "Before we graduate, it's normal to help each other out with small affairs such as this, is it not? What's more, you've given Tomoya-kun such outstanding guidance~"
-  },
-  {
-    "character": "Nazuna Nito",
-    "story": "Lost Legend: Chapter 7",
-    "text": "Of course, I also have you to thank for teaching Tomo-chin. His training in the Drama Club has made him grow a lot too. So thanks, Wataru-chin♪"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Lost Legend: Chapter 7",
-    "text": "These kind of \"tit for tat\" exchanges always make me feel like there's a spark about to emerge... Waah, Nii~chan, don't fight with him. I'm not worth it..."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Lost Legend: Chapter 7",
-    "text": "Oh my, Tomoya-kun, such wonderful lines you've just recited! What kind of conflicting emotions do you feel, as the protagonist? Are you nervous? Shameful? There is nothing wrong with that—it's what being a protagonist is all about!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Lost Legend: Chapter 7",
-    "text": "Now, turn your shame into excitement, step out of your shell, and bring forth more amazing acts!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Lost Legend: Chapter 8",
-    "text": "The young white rabbit who plucked the rose will have inherited the strength of the adorable Rabbit King, as well as the magician's amazing techniques—that will make for a truly marvelous legend♪"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Lost Legend: Chapter 8",
-    "text": "Wait, wait, wait. Any kind of rabbit is fine by me, but I don't want to inherit any sort of amazing!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Lost Legend: Chapter 8",
-    "text": "Ahahahaha! Not interested in magicians, are we? In that case, I shall teach you the secret tricks of a clown! Think of it like this: the one who wears two hats at once, the crown of the king, and the jester hat of the clown!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Lost Legend: Chapter 8",
-    "text": "You're still just a small rabbit. I'm truly looking forward to it—what does the future hold for you?"
-  },
-  {
-    "character": "Nazuna Nito",
-    "story": "Lost Legend: Chapter 8",
-    "text": "Wataru-chin might be doing it in his own way, but I know that he also wants to leave something behind for his juniors. Though he is making some jokes at Tomo-chin's expense... But I understand his mindset, so I'm not concerned about it♪"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Marching Band: Tomoya Mashiro (1)",
-    "text": "I-I'm sure that... even that Masked Pervert... W-Won't chase me this far, right...?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Marching Band: Tomoya Mashiro (1)",
-    "text": "Even when I tried telling him that it's just an outdoor concert and not some Halloween event. He just said something insane like how it wouldn't be unusual to wear weird costumes because there's an event going on today..."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Marching Band: Tomoya Mashiro (1)",
-    "text": "I can't take this! I don't want to be made into that Masked Pervert's plaything! Anything but that!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Meikyoushisui",
-    "text": "Here, the princess—Tomoya-kun—will walk up very prettily. She then has a chance encounter with the prince inside the forest!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Milky Way: The Sunshine Following the Rain (4)",
-    "text": "\"If I am an eyesore then please try to pull me down. To put things bluntly however, I am taking photos and thus wish to keep my position up here! Look, look, I've perfectly taken it you see~? Smile, smile Tomoya-kun! Say cheese☆\""
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Milky Way: The Sunshine Following the Rain (4)",
-    "text": "Didn't I tell you to not call out to me? I don't want people thinking we're acquaintances!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Motives of Good Boys: Chapter 4",
-    "text": "Actually, after everything that Masked Pervert's put me through, practically nothing fazes me anymore. Though it frustrates me to hell to think that I owe him anything."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Motives of Good Boys: Chapter 6",
-    "text": "That's because the tea smells like roses... It reminds me of the Masked Pervert, so I don't like it."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Motives of Good Boys: Chapter 6",
-    "text": "Still, it's hard, being the bad guy and all... Hmm, I'm a bit reluctant, but maybe we should ask the Masked Pervert for some advice. But y'know, I really don't want to ask him."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Office communication",
-    "text": "Hibiki-senpai is...really cool, huh."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Office communication",
-    "text": "...Hm. I guess I should go say hi to him."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Office communication",
-    "text": "I thought you were one of Hibiki-senpai's pigeons..."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Orihime and Hikoboshi: Epilogue (1)",
-    "text": "\"Sob, sob... So it is not only Tomoya-kun, but you too... Why are my juniors so cold to their own club president...? This must be the inversion of love! Ahh, we are all still in puberty...☆\""
-  },
-  {
-    "character": "Hokuto Hidaka",
-    "story": "Passionate Carmen: Chapter 3",
-    "text": "...Were you influenced by the Masked Pervert, Tomoya? Every once in a while, you start acting obscure. Even assuming that, it's especially more so today. It's strange, you know?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Passionate Carmen: Chapter 3",
-    "text": "The despair I felt when I found out its true identity was the Masked Pervert's voice is immeasurable!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Performance: Romeo and Juliet (Chapter 3)",
-    "text": "Wait, what do you mean you're not interested?! Even though you're always all over me to the point that it's insufferable?!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Performance: Romeo and Juliet (Chapter 5)",
-    "text": "\"My lips, two blushing pilgrims, shall cast their shame aside to smooth that rough touch. O'dear saint, allow me to purge my sin with this pilgrimage.\""
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Performance: Romeo and Juliet (Chapter 5)",
-    "text": "(Huh, what does that mean? All that about doing something with his hands and his lips, and that's \"pilgrimage,\" or something like that... Because I'm a shrine?)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Performance: Romeo and Juliet (Chapter 5)",
-    "text": "(Um, huh? By any chance, is he going to kiss me...?)"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Performance: Romeo and Juliet (Chapter 5)",
-    "text": "......♪"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Performance: Romeo and Juliet (Chapter 5)",
-    "text": "......!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Performance: Romeo and Juliet (Chapter 5)",
-    "text": "Borrowing the words of the great Juliet herself, \"You're spewing quite the complicated musings for no more than a kiss!\""
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Performance: Romeo and Juliet (Chapter 5)",
-    "text": "Oh? What's wrong, Tomoya-kun? You seem perplexed... Was the stimulus a little too intense?"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Performance: Romeo and Juliet (Chapter 5)",
-    "text": "Good grief, you will not be able to continue from here if you become flustered upon a kiss scene! You won't feel anything anymore once you've gotten used to it, so let us practice together~! Mwah mwah~♪"
-  },
-  {
-    "character": "Mitsuru Tenma",
-    "story": "Phantom Thieves VS Detectives: Case Discovery (3)",
-    "text": "I think it might actually say \"Masked Pervert\"~ Didn't Tomo-chan always talk about someone with that name?"
-  },
-  {
-    "character": "Nazuna Nito",
-    "story": "Phantom Thieves VS Detectives: Case Discovery (3)",
-    "text": "Oh, you mean Wataru-chin? He's in my class. I wonder what this could mean. I thought he really liked Tomo-chin~"
-  },
-  {
-    "character": "Nazuna Nito",
-    "story": "Phantom Thieves VS Detectives: Case Discovery (3)",
-    "text": "Could it be like that saying, \"The greatest hate proceeds from the greatest love\"? Was he planning on killing Tomo-chin in order to keep him all for himself?! That's so scary, Wataru-chin! But I can't say you didn't strike me as the type to do that sort of thing."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Case Discovery (6)",
-    "text": "(I was tricked! He said that Hokuto-senpai would be coming too, but he didn't! It was like I was on a date, being alone with just that Masked Pervert!)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Case Discovery (6)",
-    "text": "(He already surprises me enough on a daily basis, popping out like a human jack-in-the-box going, \"Amazing~☆\"! I swear I'm going to die of a heart attack one of these days...)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Criminal Pursuit (1)",
-    "text": "It's just, ever since I spoke to President Hibiki earlier, my mind's been kind of a mess. Like something's bothering me, but I can't tell exactly what either. What's with this feeling... Kind of like I'm sad, or like I just can't settle..."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Criminal Pursuit (1)",
-    "text": "But when he told me I could sit out of the next play, I kind of felt like a hole opened up in my chest. I keep thinking of it, and then it just makes me sigh."
-  },
-  {
-    "character": "Arashi Narukami",
-    "story": "Phantom Thieves VS Detectives: Criminal Pursuit (1)",
-    "text": "You're in love, Tomoya-chan. I'm sure of it."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Are there any naughty children here~? What a pity, there's only an average child☆"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "That scared me?! Woah, the Masked Pervert appeared!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Heheh. Tomoya-kun's reactions are amusing as usual. It has a rather shocked value to it, haha! How are you? You won't faint, correct?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "What, wouldn't you typically shout \"Are you surprised? You're surprised, aren't you! How amazing! ☆\" with such glee?"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Tomoya-kun really can't imitate me well... I am much more refined than that! My grace shines through even when I'm spouting nonsense, right?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Go look at a mirror."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Uwah, on closer inspection, you're wearing some weird costume. You're not even participating in the Mystery Stage, so why are you dressed up as a phantom thief?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "So it's like that, how tiring... Would it be better if I came and helped out?"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "No, no. I already feel like lecturing you for staying back to practice. It wouldn't be my problem if you push yourself too hard that you faint again."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Please leave this kind of work to the backstage staff. You should go home immediately and get a good night's sleep to eliminate your fatigue."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Living life in the fast lane won't do any good. I know you can't curb your enthusiasm, but being idle is part of our job as idols."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "...You saying such wise words feels out of place."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "How painful. I always gave you advice in hopes of happy growth and even taught you with such care!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Aaah! This unrequited love is a tragedy that would render even Shakespeare speechless with shock!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Uhm... You're always helping me improve, even if you are an absolute nutjob. But to be honest, I can't really keep up with your footsteps..."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Please keep it in mind a bit longer. Seriously, you're always saying such careless things..."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Sure. Don't mind me, do as you wish. However, if you mess anything up, I'll use a roundhouse kick to stop you."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "What is truly a pity is that you are not Wataru Hibiki. I have forgotten about that and regret it greatly. However, I shall forget about that in the blink of an eye tomorrow☆"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "What a spoiled child you are."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "I might have ran into you by chance... But I won't get any closer, since I wouldn't want to hurt you again. I shall leave right after I've finished cleaning up, so please pretend I'm not here. I am quite inconsiderate and can only protect you by staying away."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Oops, I've been found out. My disguise should have been perfect."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Can you be a little more gentle? That roundhouse kick will kill someone. I'm still recovering, so please be careful with me~"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Is that so? Then why did you watch today's show despite saying you'd \"stay away\" from me? You were sitting in Row D, Seat 23, right?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "The one most unlike you in today's audience was the guy sitting in Row D, Seat 23. He was at our S3 too... Speaking of which, that guy was always around. You've been watching over me the whole time, huh? I didn't expect you to get that worried."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Oh, oh... How embarrassing. This is Wataru Hibiki's greatest mistake. Thinking that someone as clueless Tomoya-kun would never see through my disguise, I slacked off, only to fail in the end."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (1)",
-    "text": "Are you trying to piss me off?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (2)",
-    "text": "Always brimming with self-confidence, aren't you? Whatever, you're talented as hell. In your eyes, my efforts are desperately useless, huh? I'll never be anything but normal my whole life."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (2)",
-    "text": "President, are you crying...?"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (2)",
-    "text": "Oh? This is a funny story—is there a reason to be crying? You say such strange things, Tomoya-kun!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "...President, let me help clean up after all. I've been watching for a while, but it doesn't look like it's gonna be over any time soon."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "When other people are around, you always became entranced with making that person happy and kinda end up being careless with everything else."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "Yeah, it's probably better for me to go home. But I'm probably the only one who can keep up with you."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "Are you sure those friends of yours aren't really just one sided on your part? Like, maybe you're actually a nuisance. You're probably one of those types who don't have anybody to play with during breaks and end up having no idea what to do with your spare time."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "How cruel, Tomoya-kun! Such a terrible thing to say—I'm wounded! Not that you're wrong, however! It's true that I spend my breaks at home sadly watching movies all by my lonesome!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "Stop that, I didn't want to hear such a painful coming out from you... What kind of movies do you watch?"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "Today's Dream Festival actually reminded me of a movie I watched recently, for instance—it was quite interesting. After I get home, perhaps I shall go watch it again, stuffing my cheeks with junk food as I lie on the floor."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "Huh. What kind of movie was it? I watch a lot of movies too, actually, because it could help out with my acting."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "No, no. It was about a tiny, adorable rabbit murdering robust knights one after another."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "What the... Ah, wait, I've seen that before! That's Monty Pyth*n, isn't it? That parody of the King Arthur legend!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "Yes, yes! They make such unique movies, although they are also quite vulgar as well. But \"fair is foul and foul is fair,\" correct? I quite like it."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "Have you seen that one, then? Bar*n! I really loved that one!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "Ahaha, to think a day would come where I would get fired up talking about movies with you, Tomoya-kun! Not even the Buddha would have imagined this—how amazing...☆"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "I'm a little surprised too—you always seemed so unworldly. I kinda wish we could've talked about this kinda stuff sooner. I always thought you weren't even human..."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (3)",
-    "text": "Hehe, I am a superhuman, after all! There was no helping it—that was how I was raised, after all. I have no regrets, however. I am truly happy right now."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "Tomoya-kun, continuing to stay \"normal\" is an exceptionally difficult thing to do. Humans \"yearn,\" after all."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "However, you have a penchant for expressing yourself as \"normal\" in self-depreciation. When you turned in your application to join the Drama Club, you said you wanted to change your \"normal\" self with sparkling eyes."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "I was uncertain. Why, even though there is such difficulty in continuing to stay \"normal\"? People will always end up aiming for the top, after all. Not even this Wataru Hibiki was able to do it."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "It was an extremely lonely world without any human warmth. There I was, withdrawing from everything, when Eichi pulled at my hair from behind. Desperately, he tethered me to this world. If you take one wrong step, you will also become like \"that.\" That is what I had feared."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "Oh, shut up... Apologies for worrying you."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "There is no need for that. You are a poor, talentless child with no individuality, but even so, you stayed by my side. Most tend to run off by the third day."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "You were shaking and scared, reluctant and writhing, wailing, but you never ran away. Holding your ground, you even complained about me. You are strong—more than I had ever thought. But that is why I could never break that. I thought to myself that I had to cherish that."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "Right, gotcha, President. I've gotten used to being messed around with your quirks anyway. I'll accompany you 'til my limit."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "Don't give up on me just yet, okay? True, I don't have any talents, and I can't really do anything exceptionally well right now. But I'm doing my best, so don't go forsaking me."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "When it ever looks like you're about to fly off into space and beyond, I'll reach out and just pull at the very ends of your hair... I'll show you that I'll grow into a reliable man."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "My my, how reliable. However, if you keep looking up, you'll end up tripping over your own two feet. Focus on what is before your eyes—the show that will continue into tomorrow. Everything after that can be contemplated when it is all over."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "Yessir. I wanna participate in Drama Club activities after all, too. Right, I want to have a chat about that later."
-  },
-  {
-    "character": "Nazuna Nito",
-    "story": "Phantom Thieves VS Detectives: Epilogue (4)",
-    "text": "(...So you can smile like that, Wataru-chin. That kind of smile is the most charming—like a boy your age should smile. Nice job, Tomo-chin. That's the treasure you were able to find because you're you.)"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Investigation Start (3)",
-    "text": "My, my! \"Not involved\"? You say such cold things, Tomoya-kun...☆"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Investigation Start (3)",
-    "text": "Heheheh! The height gives me a grand view. I can see where you are very clearly from where I am, Tomoya-kun! No, but I am always looking over you, regardless☆"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Investigation Start (3)",
-    "text": "Actually, I'm impressed that you were able to spot me despite being the fact that I was in a blind spot. Is this also the result of the power of love, I wonder...? ☆"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Investigation Start (3)",
-    "text": "D-Don't just shout gross things like that! The whole school can hear every word you're saying! And besides, I don't even love you!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Investigation Start (4)",
-    "text": "Tomoya-kun! Now then, hurry and flap your way up to my height! I'll be here to catch you with an embrace! Amazing...☆"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Investigation Start (4)",
-    "text": "Well, now that I think about it... You seem like you'd be the perfect fit for the phantom thief. Much more than Knights is, actually."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Investigation Start (4)",
-    "text": "I shall always be an actor, after all! I want to show myself off more, to the entire world! I want to righteously monopolize all the love in this world...☆ Is it not the same for you, Tomoya-kun? Since you are also part of the Drama Club!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Investigation Start (4)",
-    "text": "Hm? What's that~? I can't hear you! Take a deep breath! Let your humanity ring out loud and clear! Ahh, I've been waiting for that moment for so long!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Investigation Start (4)",
-    "text": "Anyways, I'm worried since you say you're taking a backseat role this time..."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Investigation Start (4)",
-    "text": "It was a rather valuable experience, and it wasn't as if I intended to do you any harm, after all? I'm sorry, Tomoya-kun. That was imprudent of me, tossing you around like I did... I apologize, and wholeheartedly regret my actions."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Investigation Start (4)",
-    "text": "Despite how verbally defiant you and Hokuto-kun are, you two always end up following along somehow... I'd forgotten about it. The fact that humans are fragile beings. You collapsed, didn't you? Are you alright?"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Investigation Start (4)",
-    "text": "I see! How splendid! ☆ I wouldn't have known what to do with myself if you became bedridden in the hospital like Eichi had been at one time! I'm glad that I realized before it was too late..."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Phantom Thieves VS Detectives: Investigation Start (4)",
-    "text": "Do your best at the show, alright? I will be here to support you, Tomoya-kun...♪"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Investigation Start (4)",
-    "text": "(Huh...? Were President Hibiki's eyes always that cold...?)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Phantom Thieves VS Detectives: Revelations (4)",
-    "text": "(I wonder if President Hibiki is watching from somewhere, too. He has a really ridiculous presence, so I should be able to tell if he's here in the auditorium. Hmmm...)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "RELOADED: Epilogue",
-    "text": "Yeah... For some reason, Hibiki-senpai had it. The key, I mean. I'm telling you—that guy definitely stole the key and sneakily hid it away somewhere, then stood back to watch and laugh at our distress."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "RELOADED: Epilogue",
-    "text": "But in the end, the two of us just danced along to the beat of Hibiki-senpai's script from start to finish. Doesn't that irritate you? All because I asked him to teach me some magic tricks... Which means he also taught me how to use him as a decoy and escape using misdirection."
-  },
-  {
-    "character": "Izumi Sena",
-    "story": "RELOADED: Epilogue",
-    "text": "So in this case, you used Hibiki in your misdirection, so you could successfully pull off the escape stunt?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "RELOADED: Epilogue",
-    "text": "Instead, he went through all this trouble to make sure I was backed right up against the wall, so I had no choice but to go all out. He had me wrack my brains and waited for me to come up with this escape plan all by myself, while he stood back with a stupid grin on his face!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "RELOADED: Idol of the Dead (3)",
-    "text": "Well, um. It seems as though Hibiki-senpai's introduced me on some TV show as his \"number one apprentice.\" But the TV show in question actually turned out to be one that features magic. So now there's this big misunderstanding that I can do magic tricks just as well as him."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "RELOADED: Idol of the Dead (3)",
-    "text": "Besides, I don't want to be seen as that guy's \"apprentice,\" I want to be seen as his equal, his rival..."
-  },
-  {
-    "character": "Izumi Sena",
-    "story": "RELOADED: Idol of the Dead (4)",
-    "text": "If you need an agony aunt to pour your heart out to, To-mo-ya-kun, you should be going to Hibiki or Nazunyan."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "RELOADED: Idol of the Dead (4)",
-    "text": "For the record, I did suck it up and beg Hibiki-senpai to give me some guidance. And I'm using whatever free time I have to practice as hard as I can, like I'm doing right now. But I just don't seem to be improving."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "RELOADED: Idol of the Dead (9)",
-    "text": "Correct. I just happened to receive a humble request from Tomoya-kun as to whether I could use my mimicry abilities to impersonate them. With that, I was able to buy them as much time as possible."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "RELOADED: Idol of the Dead (9)",
-    "text": "Because he asked me to. As if I could ever say no to those adorable puppy-dog eyes he begged me with~♪"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "RELOADED: Idol of the Dead (9)",
-    "text": "Besides, it's quite rare for Tomoya-kun to ask me for help, so I was over the moon...♪"
-  },
-  {
-    "character": "Nazuna Nito",
-    "story": "RELOADED: Idol of the Dead (9)",
-    "text": "But if Tomo-chin was the one who asked Wataru-chin for the favor, does that mean he doesn't want to get caught either...?"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "RELOADED: Idol of the Dead (9)",
-    "text": "It's wonderful to hear that you're taking such excellent care of Tomoya-kun, who I entrusted you with."
-  },
-  {
-    "character": "Nazuna Nito",
-    "story": "RELOADED: Idol of the Dead (9)",
-    "text": "What are you talking about? More importantly, you seem to be on Tomo-chin's side, since you accepted his request—so where are they now?"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "RELOADED: Idol of the Dead (9)",
-    "text": "After all, Tomoya-kun does well when it counts. Or rather, he can do anything he sets his mind to. He remained calm through this bizarre situation, came up with the best plan he could think of, and pulled off the most magnificent \"escape stunt.\""
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "RELOADED: Idol of the Dead (9)",
-    "text": "Amazing! Pressure makes diamonds, after all!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "RELOADED: Idol of the Dead (9)",
-    "text": "Being mean to him and having my dove hide the key was worth it♪"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Reminiscence ＊ Marionette: Imitation (1)",
-    "text": "That was amazing, wasn't it, Hajime! I told you, right? That it was worth a look! I wanted you to see this with me~♪"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Reminiscence ＊ Marionette: Imitation (2)",
-    "text": "Ah! Sorry, I just ran into her... That's no good, isn't it~ I was so moved, my breath's been taken away. But, see, it was amazing, y'know, wasn't it! Especially...that person playing the lead role!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Reminiscence ＊ Marionette: Imitation (2)",
-    "text": "You wouldn't think it was the same person, like, he's extraordinary! That was a guy, right...? He was in the role of a princess, but... Really, I was in a trance! He's my goddess~♪"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Reminiscence ＊ Marionette: Imitation (2)",
-    "text": "If we can pass the exam for this school, we can stick out our chests and watch these plays like normal, too, can't we? I'm going to do my best~ My motivation has sprung forth! ♪ Hajime, you take the exam with me too, okay?!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "\"Why,\" you ask? Please think before you ask another! There are infinite possibilities, are there not? To act without thought is the same as to die! Think, become confused, and revel in the amazing...☆"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "D-Don't come over here! Don't come near meeee! Y-You tricked me! I thought you were my goddess, but you ended up being some crazy-ass pervert instead~?!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "Uwaaah! You tricked me, huh?! And played around with my feelings! Don't you dare come any closer!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "Ahh, your frightened face is adorable as well! That was the best reward, Tomoya-kun...☆"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "However, I do not like that statement of yours. I did not \"fool you,\" rather, I \"cast a spell on you\"! It's a magical showtime... Ahahahaha! ☆"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "I-I don't understand what you're saying! Don't chase me, you damn madman!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "Acting without thinking again, aren't you? Listen to what people say properly! If one should refuse to understand the minds of others, he shall be doomed to find himself in the vast void of infallibility, a gulf of despair! What a tragedy that is!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "Accept and understand one another! Tomoya-kun, let us appreciate each other, love each other...☆ Let us empathize with each other, melt into each other, and become one! Within that, there is love, truth, and amazing!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "You want to change, do you not? You want to free yourself from your mediocre existence, do you not? If so, begin by keeping your eyes on me!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "Your admiration for me is the reason why you knocked on the Drama Club's door, no? Aah, I'm delighted that you would wish to become me! ♪"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Reminiscence ＊ Marionette: Masquerade (2)",
-    "text": "Very well! From your guts to all your nerves, I shall drive this superhuman theory of love and surprise into you! Become me, Tomoya-kun! That's right, you are Wataru Hibiki...☆"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Reminiscence ＊ Marionette: Masquerade (3)",
-    "text": "However, that is what I desire of you, you know. It is...unusual for me to leave something up to another. I shall entrust to you a tool for that purpose. Here, Tomoya-kun, please do not flee...♪"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Reminiscence ＊ Marionette: Masquerade (3)",
-    "text": "Heheheh, I just dislocated my joints, though? Yes, come here~? I shall give to you, little rabbit, this Tomoya-kun! It seems that he's somewhat troubled and so... Please, do save him♪"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Reminiscence ＊ Marionette: Masquerade (3)",
-    "text": "Right now, Tomoya-kun is a poor child with no apparent talents worth mentioning, but... As his name goes, he is a blank slate. I expect that infinite possibilities may be hiding within him."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Reminiscence ＊ Marionette: Masquerade (3)",
-    "text": "Please train up this child. Making him a being equal to me... I won't go so far as to demand that, though, you know. At this rate, he will be crushed, never having understood anything. It would be piteous, would it not?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Reminiscence ＊ Marionette: White Rabbit (1)",
-    "text": "Nito-senpai is our last hope...! I'm beyond uneasy because that Masked Pervert's the one who introduced her to me, but we're in a situation where all we can do is grasp at whatever we have, so, see?!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Rosicrucian Story: Epilogue (1)",
-    "text": "It would be troubling if you sued me. What are you getting agitated about? You were so happy to see me, weren't you~? Tomoya-kun♪"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Rosicrucian Story: Epilogue (1)",
-    "text": "It is my treat. At any rate, you are free, are you not, Tomoya-kun? While you are still young, you should learn and grow, absorbing everything in the same way as a sponge. And so, I would like you to someday become such a splendid actor that you will surprise even me."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Rosicrucian Story: Epilogue (2)",
-    "text": "Learn well, study well, and grow. Surely, at the end of that, something amazing will reveal itself...☆"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Rosicrucian Story: Epilogue (2)",
-    "text": "What is the matter, Tomoya-kun? What is so amusing? Please tell me☆"
-  },
-  {
-    "character": "Hokuto Hidaka",
-    "story": "Rosicrucian Story: Epilogue (2)",
-    "text": "If he hated it, President, he wouldn't have put up with your malicious coaching in the first place. He would have run away immediately, don't you think? Seriously accept the truth that among the huge number of new club members, no one was left other than me and Tomoya."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Rosicrucian Story: Epilogue (2)",
-    "text": "Because you are in the role of the \"princess,\" are you not? Please be the embodiment of shining \"fondness\" that dispels every difficulty. Express that \"fondness\" with your whole body! Perform it, without being afraid of what others think!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Rosicrucian Story: Epilogue (2)",
-    "text": "That is a \"princess.\" I thought that you will be able to perform it, and thus I bestowed this role upon you, you see? You are able to do it. I believe so. And so, believe in yourself, as well."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Rosicrucian Story: Epilogue (2)",
-    "text": "And so, Hokuto-kun and I will become for you the princes who protect that \"fondness\" of yours."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Rosicrucian Story: Trip Show (2)",
-    "text": "Ugh. I don't really mold \"myself\" that much, so I've been criticized for defining my roles by their costumes, as you can see... Or something like that. That's what the Masked Pervert was saying."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Rosicrucian Story: Trip Show (2)",
-    "text": "I wonder if that's true... That Masked Pervert, I think he's just absolutely enjoying himself."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Rosicrucian Story: Trip Show (3)",
-    "text": "The president also said something similar—that you don't \"turn into someone completely\" just by following their lines, or something like that. I have to assimilate the role even more from the depths of my soul, right?"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "School Festival 4: Chapter 7",
-    "text": "Hahaha! It may have arrived late, but Cinderella had her own rebellious stage, after all~ How wonderful! Tonight we'll be having red bean rice to celebrate...☆"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Tanabata Festival: Epilogue (2)",
-    "text": "That is exactly it, Tomoya-kun! You have grown a lot! I am watching over you with lots of love! Blossom on that stage to your heart's content! Amazing...☆"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Tanabata Festival: Epilogue (2)",
-    "text": "Shut up, Masked Pervert! Don't talk to me—I don't want people to think that we know each other!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "The Flag's Honor ＊ Flower Festival: Refuge (3)",
-    "text": "Hehehe, I have done what I needed to do! In the case—Tomoya-kun, Tomoya-kun! Come on out, there is nothing to be afraid of~! There is no need to shut yourself away in this closet! In the world outside lies radiance... No, lies Amazing!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "The Flag's Honor ＊ Flower Festival: Refuge (3)",
-    "text": "Tomoya-kuuun? At least give me a simple answer! Show me some kind of reaction! I don't like being ignored! Please don't be so scared of me! Let us talk, Tomoya-kuuun☆"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "The Flag's Honor ＊ Flower Festival: Refuge (3)",
-    "text": "Club members seem to be quitting one after another! I wonder why? But! Therefore! You are the only one I can rely on, Tomoya-kun! Please come out so you can help meee~!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "The Flag's Honor ＊ Flower Festival: Refuge (3)",
-    "text": "I will not bite! So open up the doors to the closet as well as your heart~! You lack the talent for theater—much more than I have thought!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "The Flag's Honor ＊ Flower Festival: Refuge (3)",
-    "text": "However, in that case, all you need to do now is start training! And for that sake, I shall put you through super special hard intensive training from hell...☆"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "The Flag's Honor ＊ Flower Festival: Refuge (3)",
-    "text": "But a one-man show is just too lonesome! So I need you, Tomoya-kun! My, this is almost like a proposal! ♪ Come ooout! If you don't put an end to this, I will have to do this by force!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "The Flag's Honor ＊ Flower Festival: Refuge (3)",
-    "text": "If you don't listen to my wishes while I'm still asking kindly, there is no telling what I could do after that...☆"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "The Spectacular Cinderella Show: Chapter 10",
-    "text": "(Just you watch, Masked Pervert! I'll show you that I can stay in character too~!)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "The Spectacular Cinderella Show: Chapter 10",
-    "text": "(Ugh. I was all fired up just a minute ago, and this is the best I've got? I'll never be able to one up the Masked Pervert like this.)"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "The Spectacular Cinderella Show: Chapter 7",
-    "text": "Oh? What a silly thing to say. As I recall, the one who wanted to escape from being \"normal\" was none other than you, Tomoya-kun."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "The Spectacular Cinderella Show: Epilogue (2)",
-    "text": "\"I may not be your real mother, but... I love you as much as I would were we related by blood. I've been told that the way I express my love is difficult to understand, though, so I suppose you won't believe me.\""
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "The Spectacular Cinderella Show: Epilogue (2)",
-    "text": "(Oh no. I know it's just an act, but my heart just skipped a beat. I feel like I'm about to cry. That's not fair, President.)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "The Spectacular Cinderella Show: Epilogue (2)",
-    "text": "(Even if it's just an act, you really have the power to win over people's hearts. Forget the Fairy Godmother and the Evil Stepmother, right now, I can't see you as anything but a loving mother who cherishes her child.)"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "The Spectacular Cinderella Show: Epilogue (3)",
-    "text": "There were a few close calls, but I'd say you passed—just barely♪"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "The Spectacular Cinderella Show: Epilogue (3)",
-    "text": "I feel like my heart's about to stop every time you pop up out of nowhere, you human jack-in-the-box!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "The Spectacular Cinderella Show: Epilogue (3)",
-    "text": "Heheh, no matter how you may try, love and surprises just can't be separated from each other!"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "The Spectacular Cinderella Show: Epilogue (3)",
-    "text": "Tch... Saying I only had enthusiasm means I should've failed and you're just going easy on me."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "The Spectacular Cinderella Show: Epilogue (3)",
-    "text": "Wait, actually, you're always super strict about acting, so... The fact that you didn't whisk me off stage means you've at least sort of acknowledged me as an actor, right?"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "The Spectacular Cinderella Show: Epilogue (3)",
-    "text": "From here on, as long as you're the Drama Club president, I'm sure there'll be plenty to worry about. But I'm glad the audience enjoyed the play. I'll keep doing my best as a member of the Drama Club. Just don't make me do a crazy show like this again, Prez, okay?"
-  },
-  {
-    "character": "Mitsuru Tenma",
-    "story": "Toy Box: Chapter 4",
-    "text": "That \"Masked Pervert\" guy went to Tomo-chan's class to pick him up, so he's in the middle of running away from him. Tag is so much fun~♪ But when I asked Tomo-chan if I could play tag with them, he got really mad and yelled, \"This isn't a game!\" at me..."
-  },
-  {
-    "character": "Nazuna Nito",
-    "story": "Toy Box: Chapter 4",
-    "text": "Ahaha, Wataru-chin seems like he really loves Tomo-chin, after all~"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Transparency and Masks: Epilogue (2)",
-    "text": "I feel like I've seen your true face. If what I saw was just an illusion or mask, I wouldn't care."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Transparency and Masks: Epilogue (2)",
-    "text": "What I saw at that moment was so dear, I wanted to turn your tears into a smile. That's enough reason for me to continue following this thread."
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Transparency and Masks: G in a maze (8)",
-    "text": "(I don't ever plan on leaving you alone! Not even for a second! I told myself that I'll catch up to you one day and grab the very ends of your hair!)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Transparency and Masks: G in a maze (8)",
-    "text": "(I can't just ignore you! Because even though you've caused me nothing but trouble, you've helped me a hundred times more!)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Transparency and Masks: G in a maze (8)",
-    "text": "(I wanted to repay you... No, much more than that!)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Transparency and Masks: G in a maze (8)",
-    "text": "(I don't know how to word this properly, but I'll say it anyways! I feel like I finally found a goal in life—a dream to chase after!)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Transparency and Masks: G in a maze (8)",
-    "text": "(Wouldn't it be exciting if someone as average as me was able to reach out to you, who's so far beyond that?)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Transparency and Masks: G in a maze (8)",
-    "text": "(Plus, I can make you forget about your loneliness even if it's just for a moment!)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Transparency and Masks: G in a maze (8)",
-    "text": "(I'd be happy and you'd be able to smile from the bottom of your heart. Wouldn't that be the best? It's a \"happily ever after,\" right? That would be really precious to me!)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Transparency and Masks: G in a maze (8)",
-    "text": "(By being able to catch up to you, who is anything but average, I could blast away my inferiority complex, your loneliness, and everything else!)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Transparency and Masks: G in a maze (8)",
-    "text": "(\"There's nothing better than being normal\"? No way! I wanna become someone! That's why I became an idol! Acting all sorts of roles on stage was so fun that I forgot I was normal for a second! It's such a great feeling—like I'm dreaming! I came to love acting too!)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Transparency and Masks: G in a maze (8)",
-    "text": "(But what exactly is acting to you? Is it just a simple trick you use to keep your \"human façade\"? Tell me that this isn't true! The whole reason why I joined the Drama Club was because I saw you on stage! I admired you!)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Transparency and Masks: G in a maze (8)",
-    "text": "(Tell me that \"this\" is dear and important to you. Don't talk about it like it's simply another stepping stone or something you need for work! It's probably only one of the burdens you carry since you can do anything, but it's just as precious as my own heart to me!)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Transparency and Masks: G in a maze (8)",
-    "text": "(I'm dead serious, you know. So don't brush it off like it's another joke.)"
-  },
-  {
-    "character": "Tomoya Mashiro",
-    "story": "Youkai Shichihenge",
-    "text": "Even when the Masked Pervert weakens my spirit with his unreasonable demands, just remembering the taste keeps me going...!"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Zodiac 2: Rooster",
-    "text": "It's because animals like Tomoya-kun, yes? I like you too☆"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Zodiac 2: Rooster",
-    "text": "My, Tomoya-kun! Can't you tell what I'm doing just by looking? If you can't, then please close your eyes! Have you closed them? Here here, your eyes are still half open~ Okay, this time you've closed them tightly! Now, open them slowly! It's time to wake up~♪"
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Zodiac 2: Rooster",
-    "text": "Hehehe, you finally noticed. Even though I was trying so hard with my appeal, Tomoya-kun ignored me and was more absorbed in the chicken. It was so frustrating that I started to bite my handkerchief."
-  },
-  {
-    "character": "Wataru Hibiki",
-    "story": "Zodiac 2: Rooster",
-    "text": "That's a nice reaction. I'm happy to be able to surprise Tomoya-kun! Chickens' ancestors have always been bad at flying, but that doesn't mean they can't fly."
+    "episode": 3,
+    "character": "Rei",
+    "quote": "Rei: Now, everybody. Enjoy this party to the fullest! For tonight, we celebrate the resurrection of UNDEAD! Let us sing and dance and visit places the mundane world only dreams of!",
+    "charcount": 181
   }
 ]

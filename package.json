@@ -1,14 +1,14 @@
 {
-  "name": "wttm_qtbot",
+  "name": "endubs_qtbot",
   "version": "1.0.0",
-  "description": "A Tomoya/Wataru Twitter quote bot",
+  "description": "A Ensemble Stars Twitter quote bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "reply": "node reply.js",
     "test": "node test.js"
   },
-  "author": "Ren (watatomo)",
+  "author": "Ren (watatomo) (forked by Kyuu (jeaoq))",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^6.2.0",
@@ -17,13 +17,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/watatomo/wttm_qtbot.git"
+    "url": "git+https://github.com/jeaoq/endubs_qtbot.git"
   },
   "keywords": [
     "ensemble stars"
   ],
   "bugs": {
-    "url": "https://github.com/watatomo/wttm_qtbot/issues"
+    "url": "https://github.com/jeaoq/endubs_qtbot/issues"
   },
-  "homepage": "https://github.com/watatomo/wttm_qtbot#readme"
+  "homepage": "https://github.com/jeaoq/endubs_qtbot#readme"
 }
