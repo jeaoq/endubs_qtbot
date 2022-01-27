@@ -1,5 +1,6 @@
-'use strict';
+"use strict";
 
-var bot = require('./src/bot');
+var bot = require("./src/bot");
 
-setInterval(bot.getRandomQuote, 1000*60*60)
+bot.getRandomQuote();
+// setInterval(bot.getRandomQuote, 1000*60*60)

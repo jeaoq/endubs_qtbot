@@ -1,38 +1,78 @@
-const Twit = require('twit');
-const config = require('./config');
-const quotes = require('./quotes.json');
-const episodes = require('./episodes.json');
-const T = new Twit(config)
+const Twit = require("twit");
+const config = require("./config");
+const quotes = require("./quotes.json");
+const episodes = require("./episodes.json");
+const T = new Twit(config);
 
-console.log("Bot has started!")
+console.log("Bot has started!");
+
+const fs = require("fs");
+const fetch = require("node-fetch");
+
+const url = "https://ensemblestars.com/pre_reg/total_count";
+
+let settings = { method: "Get" };
 
 function getRandomQuote() {
-    var quote = quotes[Math.floor(Math.random()*quotes.length)];
-    var tweetableQuote = quote.quote + '\n\n— ' + episodes[quote.episode - 1].name;
-    postQuote(tweetableQuote, '', function(data) {
-        console.log(data.id_str);
-        postQuote(
-            'Episode ' + quote.episode + ' — ' + episodes[quote.episode - 1].name + '\nCharacters — ' + quote.character + '\n\n@ensemble_dubs',
-            data.id_str
-        )
+  fetch(url, settings)
+    .then((res) => res.json())
+    .then((json) => {
+      console.log(json.data.total_count);
+      postQuote(json.data.total_count, "", function (data) {
+        console.log("success!");
+      });
     });
+
+  // var quote = quotes[Math.floor(Math.random()*quotes.length)];
+  // var tweetableQuote = quote.quote + '\n\n— ' + episodes[quote.episode - 1].name;
+  // postQuote(tweetableQuote, '', function(data) {
+  //     console.log(data.id_str);
+  //     postQuote(
+  //         'Episode ' + quote.episode + ' — ' + episodes[quote.episode - 1].name + '\nCharacters — ' + quote.character + '\n\n@ensemble_dubs',
+  //         data.id_str
+  //     )
+  // });
 }
 
-function postQuote(tweetableQuote, replyID, callback) {
-    console.log("Posting quote to timeline...")
-    try {
-        T.post('statuses/update', { status: tweetableQuote , in_reply_to_status_id: replyID }, function(err, data, response) {
-            //console.log(data);
-            try {
-                callback(data);
-            }
-            catch{
+function postQuote(preregCount, replyID, callback) {
+  // https://prereg-count.vercel.app/render/character.png?us=10000&en=50000
+  var filePath = "./image.png";
+  console.log("Posting quote to timeline...");
 
+  const imageURL = `https://prereg-count.vercel.app/render/character.png?us=${preregCount.us}&en=${preregCount.en}`;
+
+  async function download() {
+    const response = await fetch(imageURL);
+    const buffer = await response.buffer();
+    fs.writeFile(`./image.png`, buffer, () => {
+      console.log("finished downloading!");
+      T.postMediaChunked(
+        { file_path: filePath },
+        function (err, data, response) {
+          console.log(data);
+          T.post(
+            "statuses/update",
+            {
+              status: `🇺🇸 ${preregCount.us}\n🇬🇧 ${preregCount.en}\n\nPre-register now! ensemblestars.com`,
+              media_ids: data.media_id_string,
+            },
+            function (err, data, response) {
+              console.log(data);
+              try {
+                callback(data);
+              } catch {}
             }
-        });
-    } catch (error) {
-        console.log(error);
-    }
+          );
+        }
+      );
+    });
+  }
+  download();
+  //   try {
+  //     );
+  //   } catch (error) {
+  //     console.log(error);
+  //   }
 }
 
 module.exports.quotes = quotes;

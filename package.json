@@ -12,9 +12,9 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^6.2.0",
+    "node-fetch": "^2.6.7",
     "twit": "^2.2.11"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jeaoq/endubs_qtbot.git"
