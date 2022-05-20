@@ -9,7 +9,7 @@ console.log("Bot has started!");
 const fs = require("fs");
 const fetch = require("node-fetch");
 
-const url = "https://ensemblestars.com/pre_reg/total_count";
+const url = "https://ensemblestars.com/api-2021/api/c/user/count";
 
 let settings = { method: "Get" };
 
