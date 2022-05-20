@@ -53,7 +53,7 @@ function postQuote(preregCount, replyID, callback) {
           T.post(
             "statuses/update",
             {
-              status: `🇺🇸 US — Canceled!\n🇬🇧 EN — ${preregCount.en} producers\nensemblestars.com/pre\n\nPre-register now and get rewards such as exclusive cards and in-game items!!`,
+              status: `🇺🇸 US — Cancelled!\n🇬🇧 EN — ${preregCount.en} producers\nensemblestars.com/pre\n\nPre-register now and get rewards such as exclusive cards and in-game items!!`,
               media_ids: data.media_id_string,
             },
             function (err, data, response) {
