@@ -17,8 +17,8 @@ function getRandomQuote() {
   fetch(url, settings)
     .then((res) => res.json())
     .then((json) => {
-      console.log(json.data.total_count);
-      postQuote(json.data.total_count, "", function (data) {
+      console.log(json.data.total);
+      postQuote({ us: 0, en: json.data.total }, "", function (data) {
         console.log("success!");
       });
     });
